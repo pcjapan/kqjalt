@@ -1,0 +1,17 @@
+.meeting-date {
+font-weight: bold;
+font-size: 150%;
+font-family: sans-serif;
+}
+.meeting-time {
+color: #A9A9A9;
+font-size: 100%;
+font-family: sans-serif;
+font-weight: bolder;
+}
+.meeting-title a {
+color: red;
+font-size: 130%}
+.meeting-speaker {
+color: #0433FF;
+font-size: 130%}

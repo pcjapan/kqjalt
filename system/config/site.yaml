@@ -1,0 +1,35 @@
+title: Kitakyushu JALT                                 # Name of the site
+default_lang: en                            # Default language for site (potentially used by theme)
+
+author:
+  name: Website Administrator                       # Default author name
+  email: 'kitakyushu@jalt.org'                 # Default author email
+
+taxonomies: [content, events]                  # Arbitrary list of taxonomy types
+
+metadata:
+  description: 'Kitakyushu JALT Chapter'               # Site description
+
+summary:
+  enabled: true                             # enable or disable summary of page
+  format: short                             # long = summary delimiter will be ignored; short = use the first occurrence of delimiter or size
+  size: 300                                 # Maximum length of summary (characters)
+  delimiter: ===                            # The summary delimiter
+
+redirects:
+#  '/redirect-test': '/'                    # Redirect test goes to home page
+#  '/old/(.*)': '/new/$1'                   # Would redirect /old/my-page to /new/my-page
+
+routes:
+#  '/something/else': '/blog/sample-3'      # Alias for /blog/sample-3
+#  '/new/(.*)': '/blog/$1'                  # Regex any /new/my-page URL to /blog/my-page Route
+
+blog:
+  route: '/blog'                            # Custom value added (accessible via system.blog.route)
+
+#menu:                                      # Menu Example
+#    - text: Source
+#      icon: github
+#      url: https://github.com/getgrav/grav
+#    - icon: twitter
+#      url: http://twitter.com/getgrav

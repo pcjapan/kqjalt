@@ -1,0 +1,4 @@
+navbar_style: navbar-dark
+navbar_bgcolor: '#050505'
+dropdown:
+  enabled: true

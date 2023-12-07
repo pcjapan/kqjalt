@@ -1,0 +1,11 @@
+state: enabled
+email: collett@mac.com
+fullname: 'Paul Collett'
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$enhOX1mp3L/3S.F39I60SupGwwem2YOSl5yN2/CSBK.3KBtRo8pCi

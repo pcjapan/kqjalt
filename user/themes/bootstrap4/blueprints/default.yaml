@@ -1,0 +1,37 @@
+title: Default
+'@extends':
+    type: default
+    context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+            header.eventdate:
+              type: date
+              label: Presentation Date
+              size: medium
+              validate:
+               required: false
+
+            header.eventstart:
+              type: time
+              label: Start Time
+              size: small
+              validate:
+               required: false
+
+            header.eventend:
+              type: time
+              label: Finish Time
+              size: small
+              validate:
+               required: false
+
+            header.eventspeaker:
+              type: text
+              label: Speakers
+              validate:
+               required: false

@@ -1,0 +1,11 @@
+{% for p in page.collection %}
+
+
+<div class="meeting-date">{{ p.header.eventdate|date("j F, Y") }}</div>
+<div class="meeting-time">{{ p.header.eventstart|date("g:i a") }} - {{ p.header.eventend|date("g:i a") }}</div>
+<div class="meeting-title"><a href="{{ p.url }}"> {{ p.title }} </a></div>
+<div class="meeting-speaker">{{ p.header.eventspeaker }}</div>
+<hr>
+{% endfor %}
+
+
