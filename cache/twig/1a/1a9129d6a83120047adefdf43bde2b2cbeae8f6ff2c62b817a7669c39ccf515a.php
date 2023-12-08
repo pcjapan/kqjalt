@@ -30,7 +30,7 @@ class __TwigTemplate_76695cf142596d471ec6d412b34a764a28a7196a385d3de0dedbd2925ac
         $__internal_57054b9517dd8b3da0f938a595b841d745c7d753e57333ce87e0f394208342f4->enter($__internal_57054b9517dd8b3da0f938a595b841d745c7d753e57333ce87e0f394208342f4_prof = new \Twig\Profiler\Profile($this->getTemplateName(), "template", "blog.html.twig"));
 
         // line 1
-        $this->loadTemplate("blog.html.twig", "blog.html.twig", 1, "504097857")->display($context);
+        $this->loadTemplate("blog.html.twig", "blog.html.twig", 1, "815306464")->display($context);
         // line 44
         echo "
 
@@ -116,7 +116,7 @@ class __TwigTemplate_76695cf142596d471ec6d412b34a764a28a7196a385d3de0dedbd2925ac
 
 
 /* blog.html.twig */
-class __TwigTemplate_76695cf142596d471ec6d412b34a764a28a7196a385d3de0dedbd2925ac8664c___504097857 extends \Twig\Template
+class __TwigTemplate_76695cf142596d471ec6d412b34a764a28a7196a385d3de0dedbd2925ac8664c___815306464 extends \Twig\Template
 {
     public function __construct(Environment $env)
     {

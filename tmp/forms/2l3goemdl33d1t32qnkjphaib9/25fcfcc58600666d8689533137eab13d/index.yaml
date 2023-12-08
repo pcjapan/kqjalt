@@ -1,0 +1,103 @@
+form: flex-pages
+id: 'tmp://forms/session/25fcfcc58600666d8689533137eab13d'
+unique_id: 25fcfcc58600666d8689533137eab13d
+url: 'http://localhost:8888/kqjalt/admin/pages/news/content/2024%20elections'
+user:
+  username: kqjalt-admin
+  email: collett@mac.com
+timestamps:
+  created: 1702003179
+  updated: 1702003206
+data:
+  header:
+    title: '2024 Officer Elections'
+    media_order: null
+    eventdate: null
+    eventstart: null
+    eventend: null
+    eventspeaker: null
+    published: true
+    body_classes: null
+    order_by: null
+    order_manual: null
+    content:
+      items: '@self.children'
+      order:
+        by: header.date
+        dir: desc
+      pagination: true
+      limit: 10
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "The following candidates are standing for officer positions in the Kitakyushu JALT chapter for the period of office from November 2024 to November 2025:\n\n* Chapter President - Paul Collett\n* Membership Chair - Charlie Bell\n* Co-Programme Chairs - Malcolm Swanson; Andrew Zitzmann-\n* Publicity Chair - To be confirmed\n* Reporting Secretary - Markus Yong\n* Treasurer - Greg Holloway\n* Internet Services - Paul Collett\n\nSee the candidate bio statements for more information about each candidate.\n\nAccording to Bylaw III-4, of the chapter constitution: \"If no officer positions are being contested among two or more candidates, the JALT Kitakyushu Executive Board may present the full slate of officers to the membership at the Annual General Meeting for approval by the members present. If there are contested positions, elections will take place at the Annual General Meeting or prior to the AGM via the Internet, with the results subject to approval by the JALT Kitakyushu Executive Board.\"\n\nThe chapter AGM is scheduled to be held at our regular meeting on November 11th, 2023, from 6:00 pm.\n"
+  folder: '2024 Elections'
+  route: /news/content
+  name: blog
+  ordering: true
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: 'news/content/2024 elections'
+  storage_key: '02.news/content/032.2024 Elections'
+  timestamp: 0
+  serialized:
+    __META:
+      key: 'news/content/2024 elections'
+      storage_key: '02.news/content/032.2024 Elections'
+      template: null
+      storage_timestamp: 0
+      checksum: 5bb045f03641a147d365f55b10eb791f
+    storage_key: '02.news/content/032.2024 Elections'
+    parent_key: 02.news/content
+    order: '32.'
+    folder: '2024 Elections'
+    template: default
+    lang: ''
+    header:
+      title: News
+      content:
+        items: '@self.children'
+        order: { by: header.date, dir: desc }
+        pagination: true
+        limit: 10
+    root: false
+    frontmatter: ''
+    markdown: ''
+    slug: '2024 elections'
+    name: default.md
