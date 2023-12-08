@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/system.yaml',
-    'modified' => 1701972007,
+    'modified' => 1702077309,
     'size' => 4529,
     'data' => [
         'absolute_urls' => false,
