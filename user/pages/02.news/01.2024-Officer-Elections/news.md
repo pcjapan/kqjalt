@@ -15,6 +15,8 @@ process:
     markdown: true
     twig: true
 twig_first: true
+hidemenu: true
+visible: false
 ---
 
 The following candidates are standing for officer positions in the Kitakyushu JALT chapter for the period of office from November 2024 to November 2025:

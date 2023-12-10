@@ -36,12 +36,12 @@ pages:
     - 'page://'
   theme: bootstrap4
   order:
-    by: folder
-    dir: asc
+    by: date
+    dir: desc
   list:
     count: 20
   dateformat:
-    default: 'm/d/Y h:i a'
+    default: 'd-m-Y H:i'
     short: 'jS M Y'
     long: 'jS M Y'
   publish_dates: true
@@ -54,8 +54,8 @@ pages:
     page: true
     twig: true
   markdown:
-    extra: false
-    auto_line_breaks: false
+    extra: true
+    auto_line_breaks: true
     auto_url_links: false
     escape_markup: false
     special_chars:

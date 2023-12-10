@@ -3,6 +3,8 @@ title: 'Call for Presenters (reopened): November 2023 - Lightning Sessions: Focu
 taxonomy:
     content:
         - news
+visible: false
+date: '09/20/2023 04:29 pm'
 ---
 
 Join us for our rescheduled Kitakyushu JALT Lightning Sessions event. As our originally-planned July session was cancelled, we are going to reopen the call for presentations, and schedule this new event for November.

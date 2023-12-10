@@ -1,9 +1,9 @@
 {% for p in page.collection %}
 <div class="card mb-3">
-<div class="meeting-date m-1">{{ p.header.eventdate|date("j F, Y") }}</div>
-<div class="meeting-time m-1">{{ p.header.eventstart|date("g:i a") }} - {{ p.header.eventend|date("g:i a") }}</div>
-<div class="meeting-title m-1"><a href="{{ p.url }}"> {{ p.title }} </a></div>
-<div class="meeting-speaker m-1">{{ p.header.eventspeaker }}</div>
+<div class="heading-date m-1">{{ p.header.eventdate|date("j F, Y") }}</div>
+<div class="heading-time m-1">{{ p.header.eventstart|date("g:i a") }} - {{ p.header.eventend|date("g:i a") }}</div>
+<div class="heading-title m-1"><a href="{{ p.url }}"> {{ p.title }} </a></div>
+<div class="heading-speaker m-1">{{ p.header.eventspeaker }}</div>
 </div>
 {% endfor %}
 

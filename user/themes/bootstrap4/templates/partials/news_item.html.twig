@@ -7,10 +7,12 @@
 
     <div class="list-blog-header">
 
-<div class="main-meeting-title">
+<div class="heading-title">
               <h3>{{ page.title }}</h3>
                </div>
-
+<div class="heading-time">
+{{ page.date|date("j F, Y") }}
+</div>
         {% if big_header %}
             {{ page.media.images|first.cropResize(900,600).html('','blog-header-image')|raw }}
         {% else %}

@@ -7,5 +7,6 @@ content:
         dir: desc
     pagination: true
     limit: 10
+visible: true
 ---
 
