@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/system/config/site.yaml',
-    'modified' => 1702001645,
+    'modified' => 1701510484,
     'size' => 1547,
     'data' => [
         'title' => 'Kitakyushu JALT',

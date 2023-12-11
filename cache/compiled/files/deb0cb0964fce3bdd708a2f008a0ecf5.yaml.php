@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/admin/languages/ar.yaml',
-    'modified' => 1702001645,
+    'modified' => 1696264967,
     'size' => 17134,
     'data' => [
         'PLUGIN_ADMIN' => [
