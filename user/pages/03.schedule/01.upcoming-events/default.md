@@ -10,3 +10,6 @@ content:
 visible: true
 ---
 
+## Upcoming Events
+
+Our upcoming events for the year will be listed here as they are scheduled.
