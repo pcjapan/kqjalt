@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/themes/bootstrap4/bootstrap4.yaml',
-    'modified' => 1701311810,
+    'modified' => 1702001645,
     'size' => 81,
     'data' => [
         'navbar_style' => 'navbar-light',

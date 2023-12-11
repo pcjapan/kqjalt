@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/bootstrapper/languages.yaml',
-    'modified' => 1701311803,
+    'modified' => 1702001645,
     'size' => 2677,
     'data' => [
         'en' => [

@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/system/languages/zh-cn.yaml',
-    'modified' => 1696264967,
+    'modified' => 1702001645,
     'size' => 3453,
     'data' => [
         'GRAV' => [

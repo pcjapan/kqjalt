@@ -36,14 +36,14 @@ pages:
     - 'page://'
   theme: bootstrap4
   order:
-    by: date
-    dir: desc
+    by: default
+    dir: asc
   list:
     count: 20
   dateformat:
     default: 'd-m-Y H:i'
     short: 'jS M Y'
-    long: 'jS M Y'
+    long: 'l jS \of F g:i A'
   publish_dates: true
   process:
     markdown: true
@@ -160,8 +160,8 @@ log:
     facility: local6
     tag: grav
 debugger:
-  enabled: true
-  provider: clockwork
+  enabled: false
+  provider: debugbar
   censored: false
   shutdown:
     close_connection: true

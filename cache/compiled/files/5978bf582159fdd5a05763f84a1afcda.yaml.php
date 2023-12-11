@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/pagination/pagination.yaml',
-    'modified' => 1683729073,
+    'modified' => 1702001645,
     'size' => 42,
     'data' => [
         'enabled' => true,

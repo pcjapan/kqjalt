@@ -7,7 +7,8 @@ route: /search
 search_content: rendered
 template: simplesearch_results
 filters:
-  category: null
+  category:
+    - '@none'
 filter_combinator: and
 ignore_accented_characters: false
 order:
@@ -16,8 +17,8 @@ order:
 searchable_types:
   title: true
   content: true
+  header: true
   taxonomy: true
-  header: false
 header_keys_ignored:
   - title
   - taxonomy

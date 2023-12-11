@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/plugins/simplesearch.yaml',
-    'modified' => 1701663040,
-    'size' => 448,
+    'modified' => 1702280601,
+    'size' => 456,
     'data' => [
         'enabled' => true,
         'built_in_css' => true,
@@ -14,7 +14,9 @@ return [
         'search_content' => 'rendered',
         'template' => 'simplesearch_results',
         'filters' => [
-            'category' => NULL
+            'category' => [
+                0 => '@none'
+            ]
         ],
         'filter_combinator' => 'and',
         'ignore_accented_characters' => false,
@@ -25,8 +27,8 @@ return [
         'searchable_types' => [
             'title' => true,
             'content' => true,
-            'taxonomy' => true,
-            'header' => false
+            'header' => true,
+            'taxonomy' => true
         ],
         'header_keys_ignored' => [
             0 => 'title',

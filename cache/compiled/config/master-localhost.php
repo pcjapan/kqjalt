@@ -1,139 +1,143 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1702078385,
-    'checksum' => 'af76354e8e5c64d1419bfa513a8c94be',
+    'timestamp' => 1702280601,
+    'checksum' => 'c97827200bc97a14ad8d14f060966128',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1701311736
+                'modified' => 1702001645
             ],
             'plugins/bootstrapper' => [
                 'file' => 'user/config/plugins/bootstrapper.yaml',
-                'modified' => 1701665874
+                'modified' => 1702001645
             ],
             'plugins/flex-objects' => [
                 'file' => 'user/config/plugins/flex-objects.yaml',
-                'modified' => 1701573766
+                'modified' => 1702001645
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/config/plugins/simplesearch.yaml',
-                'modified' => 1701663040
+                'modified' => 1702280601
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
-                'modified' => 1701668614
+                'modified' => 1702001645
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1701311652
+                'modified' => 1702001645
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1701574559
+                'modified' => 1702001645
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1702077309
+                'modified' => 1702278001
             ],
             'themes/bootstrap4' => [
                 'file' => 'user/config/themes/bootstrap4.yaml',
-                'modified' => 1701574535
+                'modified' => 1702001645
             ],
             'themes/quark' => [
                 'file' => 'user/config/themes/quark.yaml',
-                'modified' => 1701574372
+                'modified' => 1702001645
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',
-                'modified' => 1701311652
+                'modified' => 1702001645
             ]
         ],
         'system/config' => [
             'backups' => [
                 'file' => 'system/config/backups.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'mime' => [
                 'file' => 'system/config/mime.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'permissions' => [
                 'file' => 'system/config/permissions.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'security' => [
                 'file' => 'system/config/security.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1701510484
+                'modified' => 1702001645
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ],
         'user/plugins' => [
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/pagination.yaml',
-                'modified' => 1683729073
+                'modified' => 1702001645
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/flex-objects' => [
                 'file' => 'user/plugins/flex-objects/flex-objects.yaml',
-                'modified' => 1696976458
+                'modified' => 1702001645
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1661491952
+                'modified' => 1702001645
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/bootstrapper' => [
                 'file' => 'user/plugins/bootstrapper/bootstrapper.yaml',
-                'modified' => 1701665861
+                'modified' => 1702001645
+            ],
+            'plugins/breadcrumbs' => [
+                'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
+                'modified' => 1658728804
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ],
         'user/themes' => [
             'themes/bootstrap4' => [
                 'file' => 'user/themes/bootstrap4/bootstrap4.yaml',
-                'modified' => 1701311810
+                'modified' => 1702001645
             ],
             'themes/quark' => [
                 'file' => 'user/themes/quark/quark.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ]
     ],
@@ -266,7 +270,9 @@ return [
                 'search_content' => 'rendered',
                 'template' => 'simplesearch_results',
                 'filters' => [
-                    'category' => NULL
+                    'category' => [
+                        0 => '@none'
+                    ]
                 ],
                 'filter_combinator' => 'and',
                 'ignore_accented_characters' => false,
@@ -277,8 +283,8 @@ return [
                 'searchable_types' => [
                     'title' => true,
                     'content' => true,
-                    'taxonomy' => true,
-                    'header' => false
+                    'header' => true,
+                    'taxonomy' => true
                 ],
                 'header_keys_ignored' => [
                     0 => 'title',
@@ -410,6 +416,16 @@ return [
                 'load_theme_css' => true,
                 'load_popper_js' => true,
                 'load_core_js' => true
+            ],
+            'breadcrumbs' => [
+                'enabled' => true,
+                'show_all' => true,
+                'built_in_css' => true,
+                'include_home' => true,
+                'include_current' => true,
+                'icon_home' => '',
+                'icon_divider_classes' => 'fa fa-angle-right',
+                'link_trailing' => false
             ],
             'login' => [
                 'enabled' => true,
@@ -3967,16 +3983,16 @@ node_modules'
                 ],
                 'theme' => 'bootstrap4',
                 'order' => [
-                    'by' => 'folder',
+                    'by' => 'default',
                     'dir' => 'asc'
                 ],
                 'list' => [
                     'count' => 20
                 ],
                 'dateformat' => [
-                    'default' => 'm/d/Y h:i a',
+                    'default' => 'd-m-Y H:i',
                     'short' => 'jS M Y',
-                    'long' => 'jS M Y'
+                    'long' => 'l jS \\of F g:i A'
                 ],
                 'publish_dates' => true,
                 'process' => [
@@ -3990,8 +4006,8 @@ node_modules'
                     'twig' => true
                 ],
                 'markdown' => [
-                    'extra' => false,
-                    'auto_line_breaks' => false,
+                    'extra' => true,
+                    'auto_line_breaks' => true,
                     'auto_url_links' => false,
                     'escape_markup' => false,
                     'special_chars' => [
@@ -4120,8 +4136,8 @@ node_modules'
                 ]
             ],
             'debugger' => [
-                'enabled' => true,
-                'provider' => 'clockwork',
+                'enabled' => false,
+                'provider' => 'debugbar',
                 'censored' => false,
                 'shutdown' => [
                     'close_connection' => true

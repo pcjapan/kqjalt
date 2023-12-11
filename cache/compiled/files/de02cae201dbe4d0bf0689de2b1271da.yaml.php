@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/system.yaml',
-    'modified' => 1702077309,
-    'size' => 4529,
+    'modified' => 1702278001,
+    'size' => 4536,
     'data' => [
         'absolute_urls' => false,
         'timezone' => 'Asia/Tokyo',
@@ -48,16 +48,16 @@ return [
             ],
             'theme' => 'bootstrap4',
             'order' => [
-                'by' => 'folder',
+                'by' => 'default',
                 'dir' => 'asc'
             ],
             'list' => [
                 'count' => 20
             ],
             'dateformat' => [
-                'default' => 'm/d/Y h:i a',
+                'default' => 'd-m-Y H:i',
                 'short' => 'jS M Y',
-                'long' => 'jS M Y'
+                'long' => 'l jS \\of F g:i A'
             ],
             'publish_dates' => true,
             'process' => [
@@ -71,8 +71,8 @@ return [
                 'twig' => true
             ],
             'markdown' => [
-                'extra' => false,
-                'auto_line_breaks' => false,
+                'extra' => true,
+                'auto_line_breaks' => true,
                 'auto_url_links' => false,
                 'escape_markup' => false,
                 'special_chars' => [
@@ -201,8 +201,8 @@ return [
             ]
         ],
         'debugger' => [
-            'enabled' => true,
-            'provider' => 'clockwork',
+            'enabled' => false,
+            'provider' => 'debugbar',
             'censored' => false,
             'shutdown' => [
                 'close_connection' => true

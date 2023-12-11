@@ -34,7 +34,7 @@ class __TwigTemplate_9f9e28da414de81d58195878c8c239a59a19ab536ecc3c118c6b6d68e68
         // line 2
         $context["new_base_url"] = ((($this->getAttribute(($context["blog"] ?? null), "url", []) == "/")) ? ("") : ($this->getAttribute(($context["blog"] ?? null), "url", [])));
         // line 3
-        echo "
+        echo "<div class = \"region region-sidebar-second well\">
 ";
         // line 4
         if ($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "simplesearch", []), "enabled", [])) {
@@ -50,86 +50,43 @@ class __TwigTemplate_9f9e28da414de81d58195878c8c239a59a19ab536ecc3c118c6b6d68e68
         }
         // line 10
         echo "
-";
-        // line 11
-        if (($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "relatedpages", []), "enabled", []) && (twig_length_filter($this->env, ($context["related_pages"] ?? null)) > 0))) {
-            // line 12
-            echo "    <h5>Related Posts</h5>
-    ";
-            // line 13
-            $this->loadTemplate("partials/relatedpages.html.twig", "partials/sidebar.html.twig", 13)->display($context);
-        }
-        // line 15
-        echo "
-";
-        // line 16
-        if ($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "random", []), "enabled", [])) {
-            // line 17
-            echo "    <div class=\"sidebar-content\">
-        <h5>Random Article</h5>
-        <a class=\"btn\" href=\"";
-            // line 19
-            echo twig_escape_filter($this->env, ($context["base_url_relative"] ?? null), "html", null, true);
-            echo "/random\"><i class=\"fa fa-retweet\"></i> I'm Feeling Lucky!</a>
-    </div>
-";
-        }
-        // line 22
-        echo "
 <div class=\"sidebar-content\">
-    <h5>Some Text Widget</h5>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+    <h3>Recent News</h3>
+<ul>
+";
+        // line 14
+        $context['_parent'] = $context;
+        $context['_seq'] = twig_ensure_traversable($this->getAttribute($this->getAttribute($this->getAttribute(($context["taxonomy"] ?? null), "findTaxonomy", [0 => ["content" => "news"], 1 => "or"], "method"), "order", [0 => "date", 1 => "desc"], "method"), "slice", [0 => 0, 1 => 2], "method"));
+        foreach ($context['_seq'] as $context["_key"] => $context["post"]) {
+            // line 15
+            echo "    <li><a href=\"";
+            echo twig_escape_filter($this->env, $this->getAttribute($context["post"], "url", []), "html", null, true);
+            echo "\">";
+            echo twig_escape_filter($this->env, $this->getAttribute($context["post"], "title", []));
+            echo "</a><br />
+    ";
+            // line 16
+            echo twig_escape_filter($this->env, twig_date_format_filter($this->env, $this->getAttribute($context["post"], "date", []), ($context["g"] ?? null)), "html", null, true);
+            echo "
+    </li>
+";
+        }
+        $_parent = $context['_parent'];
+        unset($context['_seq'], $context['_iterated'], $context['_key'], $context['post'], $context['_parent'], $context['loop']);
+        $context = array_intersect_key($context, $_parent) + $_parent;
+        // line 19
+        echo "</ul>
+<h3>Social Media Links</h3>
+<ul>
+<li><a href=\"https://www.facebook.com/groups/kqjalt/\">KQJALT on Facebook</a></li>
+</ul>
+<h3>JALT National</h3>
+<div class=\"text-center\"><a href=\"http://jalt.org/\"><img src =\"../images/JALTlogoColor.gif\" alt=\"JALT\" width=\"150\" height=\"52\" /></a>
+<p><a href=\"https://jalt.org/\">The Japan Asociation for Languge Teaching</a></p>
 </div>
-
+</div>
+</div>
 ";
-        // line 28
-        if ($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "taxonomylist", []), "enabled", [])) {
-            // line 29
-            echo "    <div class=\"sidebar-content\">
-        <h5>Popular Tags</h5>
-        ";
-            // line 31
-            $this->loadTemplate("partials/taxonomylist.html.twig", "partials/sidebar.html.twig", 31)->display(twig_array_merge($context, ["base_url" => ($context["new_base_url"] ?? null), "taxonomy" => "tag"]));
-            // line 32
-            echo "    </div>
-";
-        }
-        // line 34
-        echo "
-";
-        // line 35
-        if ($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "archives", []), "enabled", [])) {
-            // line 36
-            echo "    <div class=\"sidebar-content\">
-        <h5>Archives</h5>
-        ";
-            // line 38
-            $this->loadTemplate("partials/archives.html.twig", "partials/sidebar.html.twig", 38)->display(twig_array_merge($context, ["base_url" => ($context["new_base_url"] ?? null)]));
-            // line 39
-            echo "    </div>
-";
-        }
-        // line 41
-        echo "
-";
-        // line 42
-        if ($this->getAttribute($this->getAttribute($this->getAttribute(($context["config"] ?? null), "plugins", []), "feed", []), "enabled", [])) {
-            // line 43
-            echo "    <div class=\"sidebar-content\">
-        <h5>Syndicate</h5>
-        <div class=\"btn-group\">
-            <a class=\"btn btn-warning\" href=\"";
-            // line 46
-            echo twig_escape_filter($this->env, ($context["feed_url"] ?? null), "html", null, true);
-            echo ".atom\"><i class=\"fa fa-rss-square\"></i> Atom 1.0</a>
-            <a class=\"btn btn-warning\" href=\"";
-            // line 47
-            echo twig_escape_filter($this->env, ($context["feed_url"] ?? null), "html", null, true);
-            echo ".rss\"><i class=\"fa fa-rss-square\"></i> RSS</a>
-        </div>
-    </div>
-";
-        }
         
         $__internal_57054b9517dd8b3da0f938a595b841d745c7d753e57333ce87e0f394208342f4->leave($__internal_57054b9517dd8b3da0f938a595b841d745c7d753e57333ce87e0f394208342f4_prof);
 
@@ -147,7 +104,7 @@ class __TwigTemplate_9f9e28da414de81d58195878c8c239a59a19ab536ecc3c118c6b6d68e68
 
     public function getDebugInfo()
     {
-        return array (  127 => 47,  123 => 46,  118 => 43,  116 => 42,  113 => 41,  109 => 39,  107 => 38,  103 => 36,  101 => 35,  98 => 34,  94 => 32,  92 => 31,  88 => 29,  86 => 28,  78 => 22,  72 => 19,  68 => 17,  66 => 16,  63 => 15,  60 => 13,  57 => 12,  55 => 11,  52 => 10,  48 => 8,  46 => 7,  42 => 5,  40 => 4,  37 => 3,  35 => 2,  33 => 1,);
+        return array (  78 => 19,  69 => 16,  62 => 15,  58 => 14,  52 => 10,  48 => 8,  46 => 7,  42 => 5,  40 => 4,  37 => 3,  35 => 2,  33 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -162,7 +119,7 @@ class __TwigTemplate_9f9e28da414de81d58195878c8c239a59a19ab536ecc3c118c6b6d68e68
     {
         return new Source("{% set feed_url = blog.url == '/' or blog.url == base_url_relative ? (base_url_relative ~ '/' ~ blog.slug) : blog.url %}
 {% set new_base_url = blog.url == '/' ? '' : blog.url %}
-
+<div class = \"region region-sidebar-second well\">
 {% if config.plugins.simplesearch.enabled %}
     <div class=\"sidebar-content\">
         <h5>Search</h5>
@@ -170,46 +127,25 @@ class __TwigTemplate_9f9e28da414de81d58195878c8c239a59a19ab536ecc3c118c6b6d68e68
     </div>
 {% endif %}
 
-{% if config.plugins.relatedpages.enabled and related_pages|length > 0 %}
-    <h5>Related Posts</h5>
-    {% include 'partials/relatedpages.html.twig' %}
-{% endif %}
-
-{% if config.plugins.random.enabled %}
-    <div class=\"sidebar-content\">
-        <h5>Random Article</h5>
-        <a class=\"btn\" href=\"{{ base_url_relative }}/random\"><i class=\"fa fa-retweet\"></i> I'm Feeling Lucky!</a>
-    </div>
-{% endif %}
-
 <div class=\"sidebar-content\">
-    <h5>Some Text Widget</h5>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.</p>
+    <h3>Recent News</h3>
+<ul>
+{% for post in taxonomy.findTaxonomy({'content':'news'}, \"or\").order('date', 'desc').slice(0, 2)  %}
+    <li><a href=\"{{ post.url }}\">{{ post.title|e }}</a><br />
+    {{ post.date|date(g) }}
+    </li>
+{% endfor %}
+</ul>
+<h3>Social Media Links</h3>
+<ul>
+<li><a href=\"https://www.facebook.com/groups/kqjalt/\">KQJALT on Facebook</a></li>
+</ul>
+<h3>JALT National</h3>
+<div class=\"text-center\"><a href=\"http://jalt.org/\"><img src =\"../images/JALTlogoColor.gif\" alt=\"JALT\" width=\"150\" height=\"52\" /></a>
+<p><a href=\"https://jalt.org/\">The Japan Asociation for Languge Teaching</a></p>
 </div>
-
-{% if config.plugins.taxonomylist.enabled %}
-    <div class=\"sidebar-content\">
-        <h5>Popular Tags</h5>
-        {% include 'partials/taxonomylist.html.twig' with {'base_url': new_base_url, 'taxonomy': 'tag'} %}
-    </div>
-{% endif %}
-
-{% if config.plugins.archives.enabled %}
-    <div class=\"sidebar-content\">
-        <h5>Archives</h5>
-        {% include 'partials/archives.html.twig' with {'base_url': new_base_url} %}
-    </div>
-{% endif %}
-
-{% if config.plugins.feed.enabled %}
-    <div class=\"sidebar-content\">
-        <h5>Syndicate</h5>
-        <div class=\"btn-group\">
-            <a class=\"btn btn-warning\" href=\"{{ feed_url }}.atom\"><i class=\"fa fa-rss-square\"></i> Atom 1.0</a>
-            <a class=\"btn btn-warning\" href=\"{{ feed_url }}.rss\"><i class=\"fa fa-rss-square\"></i> RSS</a>
-        </div>
-    </div>
-{% endif %}
+</div>
+</div>
 ", "partials/sidebar.html.twig", "/Applications/MAMP/htdocs/kqjalt/user/themes/bootstrap4/templates/partials/sidebar.html.twig");
     }
 }

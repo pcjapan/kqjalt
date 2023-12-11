@@ -136,7 +136,7 @@ class __TwigTemplate_e13d1c1e28cb2318810771476639aa1f5070c84f8e12ab5a094e89db83d
             <p><a href=\"";
             // line 41
             echo twig_escape_filter($this->env, $this->getAttribute(($context["page"] ?? null), "url", []), "html", null, true);
-            echo "\">Continue Reading...</a></p>
+            echo "\">Continue Reading</a></p>
         ";
         } elseif (        // line 42
 ($context["truncate"] ?? null)) {
@@ -158,7 +158,7 @@ class __TwigTemplate_e13d1c1e28cb2318810771476639aa1f5070c84f8e12ab5a094e89db83d
             // line 48
             echo "            <p><a href=\"";
             echo twig_escape_filter($this->env, $this->getAttribute(($context["page"] ?? null), "url", []), "html", null, true);
-            echo "\">Continue Reading...</a></p>
+            echo "\">Continue Reading</a></p>
         ";
         } else {
             // line 50
@@ -277,14 +277,14 @@ class __TwigTemplate_e13d1c1e28cb2318810771476639aa1f5070c84f8e12ab5a094e89db83d
             {% endif %}
         {% elseif truncate and page.summary != page.content %}
             <p>{{ page.summary|raw }}</p>
-            <p><a href=\"{{ page.url }}\">Continue Reading...</a></p>
+            <p><a href=\"{{ page.url }}\">Continue Reading</a></p>
         {% elseif truncate %}
             {% if page.summary != page.content %}
                 <p>{{ page.content|truncate(550) }}</p>
             {% else %}
                 <p>{{ page.content|raw }}</p>
             {% endif %}
-            <p><a href=\"{{ page.url }}\">Continue Reading...</a></p>
+            <p><a href=\"{{ page.url }}\">Continue Reading</a></p>
         {% else %}
             <p>{{ page.content|raw }}</p>
             {% set show_prev_next = true %}

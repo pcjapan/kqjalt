@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/pagination/blueprints.yaml',
-    'modified' => 1683729073,
+    'modified' => 1702001645,
     'size' => 1269,
     'data' => [
         'name' => 'Pagination',

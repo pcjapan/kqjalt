@@ -1,7 +1,7 @@
 ---
 title: 'Kitakyushu JALT Open Meeting'
 dateformat: 'd-m-Y H:i'
-date: '10/21/2023 12:00 am'
+date: '21-10-2023 00:00'
 taxonomy:
     content:
         - events
@@ -10,7 +10,7 @@ taxonomy:
         - archive
 content:
     items: '@self.modular'
-publish_date: '10/10/2023 12:00 am'
+publish_date: '10-10-2023 00:00'
 metadata:
     - Events
 child_type: item
