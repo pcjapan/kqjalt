@@ -1,10 +1,32 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
-    <div class="main-content">
-        <div class="container">
+ <div class="main-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 blog-main">
         {{ page.content|raw }}
         {% include 'partials/content.html.twig' %}
         </div>
-    </div>
+
+
+                    <div class="col-sm-3 offset-sm-1 blog-sidebar">
+                        {% include 'partials/sidebar.html.twig' with {'blog': page} %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endblock %}
+
+    {% block pagination %}
+        {% if config.plugins.pagination.enabled %}
+            <div class="container pagination-container">
+                <div class="row">
+                    <div class="col-sm-8">
+                        {% include 'partials/pagination.html.twig' with {'base_url': page.url, 'pagination': collection.params.pagination} %}
+                    </div>
+                </div>
+            </div>
+             {% endif %}
 {% endblock %}
+

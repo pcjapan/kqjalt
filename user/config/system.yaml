@@ -39,7 +39,7 @@ pages:
     by: default
     dir: asc
   list:
-    count: 20
+    count: 10
   dateformat:
     default: 'd-m-Y H:i'
     short: 'jS M Y'

@@ -10,7 +10,6 @@ taxonomy:
         - archive
 content:
     items: '@self.modular'
-publish_date: '10-11-2023 00:00'
 metadata:
     - Events
 mytitle: 'Page Label'
@@ -18,10 +17,6 @@ eventdate: '2023-11-11'
 eventstart: '18:00'
 eventend: '20:00'
 eventspeaker: 'Hudson Murrell; Markus Yong'
-routes:
-    aliases:
-        - schedule/2023/november/11
-routable: true
 ---
 
 This month's meeting will be divided into two parts. First, we will hold the chapter Annual General Meeting (AGM). Officer reports will be tabled, and we will elect our officers for 2024.

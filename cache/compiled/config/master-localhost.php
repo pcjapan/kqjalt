@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1702335306,
-    'checksum' => '7b7d6edbdd568f3eb8ecb9cce17b0d19',
+    'timestamp' => 1702367721,
+    'checksum' => '30ecb5d74932db9e4768fb9ff593381c',
     'files' => [
         'user/config' => [
             'media' => [
@@ -16,6 +16,10 @@ return [
             'plugins/flex-objects' => [
                 'file' => 'user/config/plugins/flex-objects.yaml',
                 'modified' => 1701573766
+            ],
+            'plugins/pagination' => [
+                'file' => 'user/config/plugins/pagination.yaml',
+                'modified' => 1702367721
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/config/plugins/simplesearch.yaml',
@@ -35,7 +39,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1702317608
+                'modified' => 1702367367
             ],
             'themes/bootstrap4' => [
                 'file' => 'user/config/themes/bootstrap4.yaml',
@@ -3987,7 +3991,7 @@ node_modules'
                     'dir' => 'asc'
                 ],
                 'list' => [
-                    'count' => 20
+                    'count' => 10
                 ],
                 'dateformat' => [
                     'default' => 'd-m-Y H:i',

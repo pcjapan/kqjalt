@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/system.yaml',
-    'modified' => 1702317608,
+    'modified' => 1702367367,
     'size' => 4536,
     'data' => [
         'absolute_urls' => false,
@@ -52,7 +52,7 @@ return [
                 'dir' => 'asc'
             ],
             'list' => [
-                'count' => 20
+                'count' => 10
             ],
             'dateformat' => [
                 'default' => 'd-m-Y H:i',
