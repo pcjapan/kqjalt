@@ -1,7 +1,9 @@
-.heading-date {
-font-weight: bold;
-font-size: 150%;
-font-family: sans-serif;
+.heading-date
+{
+    font-weight: bold;
+    font-size: 110%;
+    font-family: sans-serif;
+    color: #424242;
 }
 .heading-time {
 color: #A9A9A9;
@@ -15,11 +17,13 @@ color: purple;
 
 .heading-title a {
 color: red;
-font-size: 130%}
+font-size: 120%;
+text-decoration: underline;
+}
 
 .heading-speaker {
 color: #0433FF;
-font-size: 130%}
+font-size: 120%}
 
 .well {
     min-height: 20px;

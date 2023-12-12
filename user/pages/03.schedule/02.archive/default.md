@@ -6,7 +6,7 @@ content:
         by: date
         dir: desc
     pagination: true
-    limit: 5
+    limit: 10
 ---
 
 ## Kitakyushu JALT Events Archive

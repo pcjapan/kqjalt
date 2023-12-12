@@ -7,12 +7,12 @@
 
     <div class="list-blog-header">
 
-<div class="main-meeting-title">
+<div class="heading-title">
               <h3>{{ page.title }}</h3>
                </div>
-<div class="main-meeting-speaker">{{ page.header.eventspeaker }}</div>
+<div class="heading-speaker">{{ page.header.eventspeaker }}</div>
 
-<div class="main-meeting-date">
+<div class="heading-date">
     {{ page.header.eventdate|date("j F, Y") }} - {{ page.header.eventstart|date("g:ia") }} to {{ page.header.eventend|date("g:ia") }}
 </div>
         {% if big_header %}

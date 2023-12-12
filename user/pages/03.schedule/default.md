@@ -1,5 +1,9 @@
 ---
 title: Schedule
+dateformat: 'd-m-Y H:i'
+admin:
+    children_display_order: collection
+child_type: news
 ---
 
 ## Kitakyushu JALT Events Schedule Information
