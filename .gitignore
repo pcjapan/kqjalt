@@ -4,8 +4,10 @@
 .LSOverride
 
 # Directories
-/cache
-/logs
+cache/*
+!cache/.*
+logs/*
+!logs/.*
 
 # Icon must end with two \r
 Icon
