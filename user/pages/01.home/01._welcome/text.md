@@ -1,14 +1,3 @@
----
-content:
-    order:
-        by: name
-        dir: asc
-title: 'Welcome To Kitakyushu JALT'
-menu: Welcome
-onpage_menu: false
-published: true
----
-
 <p class="lead">Welcome to the Kitakyushu chapter of <a href="http://jalt.org">JALT</a> - the Japan Association for Language Teaching.</p>
 
 <h2>Our Schedule</h2> 

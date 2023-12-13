@@ -1,25 +1,16 @@
 ---
-content:
-    order:
-        by: name
-        dir: asc
-title: 'Welcome To Kitakyushu JALT'
-menu: Welcome
-onpage_menu: false
 published: true
+admin:
+    children_display_order: default
 ---
-
-<p class="lead">Welcome to the Kitakyushu chapter of <a href="http://jalt.org">JALT</a> - the Japan Association for Language Teaching.</p>
-
-<h2>Our Schedule</h2> 
-
-<p>Details of our upcoming presentations will be available on our <a href="/chapters/kq/schedule">programme page</a>. Find out what you can look forward to during the year and arrange your schedule accordingly. </p>
 
 <h2>Meeting Information</h2>
 
 <p>Meetings are generally held on the second Saturday of the month. The presentations start around 6:15 p.m., but the doors are open 15 minutes or so earlier. Meetings usually run until 8:00 p.m., or a little earlier.</p>
 <p>All welcome, admittance for regular meetings is free for JALT members, 1,000 yen for one-day members. Please note that this is subject to change in the case of special events. In the event of any changes, the admittance fees will be listed on this site.</p>
 <p>Visit the <a href="https://jalt.org/events">JALT Events calendar</a> for nationwide meeting and events listings.</p>
+
+<hr />
 
 <h2>Meeting Location</h2>
 
