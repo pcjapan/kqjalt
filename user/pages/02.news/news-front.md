@@ -11,6 +11,8 @@ dateformat: 'd-m-Y H:i'
 admin:
     children_display_order: collection
 child_type: news
+permissions:
+    inherit: true
 ---
 
 ## Kitakyushu JALT News

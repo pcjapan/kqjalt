@@ -1,12 +1,12 @@
 ---
-title:  'Use of English Language for International Development Work'
+title: 'Use of English Language for International Development Work'
 dateformat: 'd-m-Y H:i'
-date:  '19-11-09 00:00'
+date: '19-11-09 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '16:20'
 eventend: '17:50'
 eventspeaker: 'Amihan April C. Mella-Alcazar'
 ---
-
-
 
 Dr. Mella-Alcazar, who speaks six languages, will explain how the Philippines achieved its high level of English through the application of two theories of learning: the functional literacy theory and the contextual learning theory. She will use her own experience of learning Japanese to illustrate these two theories.
 

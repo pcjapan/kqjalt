@@ -1,12 +1,12 @@
 ---
-title:  'Game Based Learning'
+title: 'Game Based Learning'
 dateformat: 'd-m-Y H:i'
-date:  '19-06-21 00:00'
+date: '19-06-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'

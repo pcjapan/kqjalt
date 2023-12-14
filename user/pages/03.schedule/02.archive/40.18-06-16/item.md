@@ -1,12 +1,12 @@
 ---
-title:  'Directed Motivational Currents: What are they and what can they teach us about long-term motivation?'
+title: 'Directed Motivational Currents: What are they and what can they teach us about long-term motivation?'
 dateformat: 'd-m-Y H:i'
-date:  '16-06-18 00:00'
+date: '16-06-18 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,7 +18,6 @@ eventstart: '16:00'
 eventend: '18:00'
 eventspeaker: 'Zoltán Dörnyei'
 ---
-
 
 While we are accepting onsite payments, please preregister for this event! This will help us get everyone checked in on the day: http://kqjalt-dornyei.peatix.com
 Most people will have come across a curious phenomenon whereby somebody suddenly embarks on a project, invests a great deal of time and energy in it for a period of time and, as a result, often achieves something quite remarkable. This paper  discusses this phenomenon and introduces a novel psychological construct to describe it, ‘Directed Motivational Current’ (DMC). It refers to an intense motivational drive capable of both stimulating and supporting long-term behaviour, such as learning a foreign/second language. DMCs involve unique periods of heightened motivational involvement whereby individuals pursue a goal/vision which is considered personally significant, highly relevant to one’s desired identity and emotionally satisfying – the experience of a DMC carries with it the excitement of journeying down a ‘motivational highway’ towards new pastures. Although such surges occur in numerous guises within the social world, they are admittedly not very frequent and their duration is also limited. This being the case, do they have a more general significance for motivation theory? I will argue in this talk that they do, because DMCs represent an optimal form long-term motivation, one which occurs when all the necessary conditions and components of motivated action are present and act as a harmonious whole. It may be no exaggeration to regard almost any form of long-term motivation as a partial realization of a DMC and, accordingly, understanding how and why a DMC happens will allow us to identify the principal building blocks of sustained motivated behaviour.

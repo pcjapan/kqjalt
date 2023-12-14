@@ -1,12 +1,12 @@
 ---
-title:  'Two Christmas Activities'
+title: 'Two Christmas Activities'
 dateformat: 'd-m-Y H:i'
-date:  '11-10-08 00:00'
+date: '11-10-08 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

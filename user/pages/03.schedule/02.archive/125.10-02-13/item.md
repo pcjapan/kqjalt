@@ -1,12 +1,12 @@
 ---
-title:  'CALL in the classroom - possibilities and outcomes'
+title: 'CALL in the classroom - possibilities and outcomes'
 dateformat: 'd-m-Y H:i'
-date:  '13-02-10 00:00'
+date: '13-02-10 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

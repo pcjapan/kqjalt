@@ -1,8 +1,7 @@
 ---
-title:  'The Native and Foreign Language Mental Lexicon: Implications for Teaching'
+title: 'The Native and Foreign Language Mental Lexicon: Implications for Teaching'
 dateformat: 'd-m-Y H:i'
-date:  '14-07-18 00:00'
-
+date: '14-07-18 00:00'
 eventdate: '2018-07-14'
 eventstart: '19:00'
 eventend: '20:30'

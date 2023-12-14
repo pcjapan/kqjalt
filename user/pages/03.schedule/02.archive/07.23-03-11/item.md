@@ -1,12 +1,12 @@
 ---
-title:  'Narrative Inquiry into Language Teacher Identity: ALTs in the JET Program'
+title: 'Narrative Inquiry into Language Teacher Identity: ALTs in the JET Program'
 dateformat: 'd-m-Y H:i'
-date:  '11-03-23 00:00'
+date: '11-03-23 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2023' 
+        - '2023'
         - archive
 content:
     items: '@self.modular'

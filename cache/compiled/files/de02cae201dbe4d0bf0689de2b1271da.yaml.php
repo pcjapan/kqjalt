@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/system.yaml',
-    'modified' => 1702369031,
-    'size' => 4536,
+    'modified' => 1702490409,
+    'size' => 4529,
     'data' => [
         'absolute_urls' => false,
         'timezone' => 'Asia/Tokyo',
@@ -56,8 +56,8 @@ return [
             ],
             'dateformat' => [
                 'default' => 'd-m-Y H:i',
-                'short' => 'jS M Y',
-                'long' => 'l jS \\of F g:i A'
+                'short' => 'd-m-y G:i',
+                'long' => 'jS M Y'
             ],
             'publish_dates' => true,
             'process' => [

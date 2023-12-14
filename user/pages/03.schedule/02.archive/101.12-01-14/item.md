@@ -1,8 +1,7 @@
 ---
-title:  'Adapting Board Games for Language Practice:  A Workshop'
+title: 'Adapting Board Games for Language Practice:  A Workshop'
 dateformat: 'd-m-Y H:i'
-date:  '14-01-12 00:00'
-
+date: '14-01-12 00:00'
 eventdate: '2012-01-14'
 eventstart: '18:30'
 eventend: '20:00'

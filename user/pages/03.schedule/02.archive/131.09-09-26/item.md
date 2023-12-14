@@ -1,12 +1,12 @@
 ---
-title:  'What is Red?'
+title: 'What is Red?'
 dateformat: 'd-m-Y H:i'
-date:  '26-09-09 00:00'
+date: '26-09-09 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

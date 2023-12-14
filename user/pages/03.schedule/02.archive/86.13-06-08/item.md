@@ -1,8 +1,7 @@
 ---
-title:  'Language Codes: Helping teachers decode the L in JALT'
+title: 'Language Codes: Helping teachers decode the L in JALT'
 dateformat: 'd-m-Y H:i'
-date:  '08-06-13 00:00'
-
+date: '08-06-13 00:00'
 eventdate: '2013-06-08'
 eventstart: '18:30'
 eventend: '20:00'

@@ -1,8 +1,7 @@
 ---
-title:  'Resistance on the Brain—Why Student Demotivation is Normal (and What to Do About it)'
+title: 'Resistance on the Brain—Why Student Demotivation is Normal (and What to Do About it)'
 dateformat: 'd-m-Y H:i'
-date:  '14-10-17 00:00'
-
+date: '14-10-17 00:00'
 eventdate: '2017-10-14'
 eventstart: '19:00'
 eventend: '21:00'

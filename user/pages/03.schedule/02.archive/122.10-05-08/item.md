@@ -1,8 +1,7 @@
 ---
-title:  'Developing Personalized Portfolio Rubrics for the EFL Classroom'
+title: 'Developing Personalized Portfolio Rubrics for the EFL Classroom'
 dateformat: 'd-m-Y H:i'
-date:  '08-05-10 00:00'
-
+date: '08-05-10 00:00'
 eventdate: '2010-05-08'
 eventstart: '18:30'
 eventend: '20:00'

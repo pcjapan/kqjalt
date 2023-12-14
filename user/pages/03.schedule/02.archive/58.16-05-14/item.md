@@ -1,8 +1,7 @@
 ---
-title:  'Freeing up Fluency in a Silent Speaking Class / Katakana & English'
+title: 'Freeing up Fluency in a Silent Speaking Class / Katakana & English'
 dateformat: 'd-m-Y H:i'
-date:  '14-05-16 00:00'
-
+date: '14-05-16 00:00'
 eventdate: '2016-05-14'
 eventstart: '18:30'
 eventend: '20:00'

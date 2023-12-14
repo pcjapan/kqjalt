@@ -1,8 +1,7 @@
 ---
-title:  'Online Learning, Fluency, and Dysfluency'
+title: 'Online Learning, Fluency, and Dysfluency'
 dateformat: 'd-m-Y H:i'
-date:  '14-01-17 00:00'
-
+date: '14-01-17 00:00'
 eventdate: '2017-01-14'
 eventstart: '18:30'
 eventend: '20:00'

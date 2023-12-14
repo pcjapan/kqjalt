@@ -1,12 +1,12 @@
 ---
-title:  '2017 Lightning Presentation Night'
+title: '2017 Lightning Presentation Night'
 dateformat: 'd-m-Y H:i'
-date:  '11-11-17 00:00'
+date: '11-11-17 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -16,7 +16,7 @@ mytitle: 'Page Label'
 eventdate: '2017-11-11'
 eventstart: '19:00'
 eventend: '20:30'
-eventspeaker: 'Various'
+eventspeaker: Various
 ---
 
 In November we are continuing on with our popular annual Lightning Presentations. There will be a number of presenters who will each take turns presenting their chosen topic using only 20 slides for 20 seconds per slide. This creative event promises to be a rewarding experience for all involved where people can have fun sharing ideas and thoughts about their classroom experiences and research.

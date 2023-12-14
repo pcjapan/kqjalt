@@ -1,12 +1,12 @@
 ---
-title:  'A 2-Part Workshop on Critical Thinking and Reflective Practices'
+title: 'A 2-Part Workshop on Critical Thinking and Reflective Practices'
 dateformat: 'd-m-Y H:i'
-date:  '15-10-22 00:00'
+date: '15-10-22 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2022' 
+        - '2022'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '17:30'
 eventend: '20:00'
 eventspeaker: 'Andrew Boon'
 ---
-
-
 
 For our October meeting, Andrew Boon will be covering two separate topics. We hope you can join us for one or both.
 

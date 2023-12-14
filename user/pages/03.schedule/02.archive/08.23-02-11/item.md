@@ -1,12 +1,12 @@
 ---
-title:  'Practical Approaches to Making Impactful Presentations'
+title: 'Practical Approaches to Making Impactful Presentations'
 dateformat: 'd-m-Y H:i'
-date:  '11-02-23 00:00'
+date: '11-02-23 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2023' 
+        - '2023'
         - archive
 content:
     items: '@self.modular'

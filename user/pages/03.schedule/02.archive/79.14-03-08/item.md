@@ -1,8 +1,7 @@
 ---
-title:  'Task-Supported Language Teaching: Factors for communication and grammar use'
+title: 'Task-Supported Language Teaching: Factors for communication and grammar use'
 dateformat: 'd-m-Y H:i'
-date:  '08-03-14 00:00'
-
+date: '08-03-14 00:00'
 eventdate: '2014-03-08'
 eventstart: '18:30'
 eventend: '20:00'

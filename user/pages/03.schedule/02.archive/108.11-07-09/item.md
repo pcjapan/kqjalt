@@ -1,12 +1,11 @@
 ---
-title:  'Connecting Neuroscience with EFL in Japan/Asia'
+title: 'Connecting Neuroscience with EFL in Japan/Asia'
 dateformat: 'd-m-Y H:i'
-date:  '09-07-11 00:00'
-
+date: '09-07-11 00:00'
 eventdate: '2011-07-09'
 eventstart: '09:00'
 eventend: '17:30'
-eventspeaker: 'Various'
+eventspeaker: Various
 ---
 
 FAB1: Kitakyushu Conference

@@ -1,8 +1,7 @@
 ---
-title:  'How to get your students to read without really trying'
+title: 'How to get your students to read without really trying'
 dateformat: 'd-m-Y H:i'
-date:  '14-05-11 00:00'
-
+date: '14-05-11 00:00'
 eventdate: '2011-05-14'
 eventstart: '18:30'
 eventend: '20:00'

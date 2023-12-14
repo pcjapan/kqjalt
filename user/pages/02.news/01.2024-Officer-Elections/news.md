@@ -1,20 +1,11 @@
 ---
 title: '2024 Officer Elections'
-content:
-    items: '@self.children'
-    order:
-        by: header.date
-        dir: desc
-    pagination: true
-    limit: 10
-date: '11/06/2023 11:06 pm'
+date: '06-11-2023 23:06'
 taxonomy:
     content:
         - news
-process:
-    markdown: true
-    twig: true
-twig_first: true
+    year:
+        - '2023'
 hidemenu: true
 visible: false
 ---

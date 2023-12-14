@@ -1,8 +1,7 @@
 ---
-title:  'Equipping Teachers to Incorporate Drama'
+title: 'Equipping Teachers to Incorporate Drama'
 dateformat: 'd-m-Y H:i'
-date:  '10-03-12 00:00'
-
+date: '10-03-12 00:00'
 eventdate: '2012-03-10'
 eventstart: '18:30'
 eventend: '20:00'

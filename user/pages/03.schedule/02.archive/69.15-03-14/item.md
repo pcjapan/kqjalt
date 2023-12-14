@@ -1,8 +1,7 @@
 ---
-title:  'Assessment for Learning: Dynamic Assessment'
+title: 'Assessment for Learning: Dynamic Assessment'
 dateformat: 'd-m-Y H:i'
-date:  '14-03-15 00:00'
-
+date: '14-03-15 00:00'
 eventdate: '2015-03-14'
 eventstart: '18:30'
 eventend: '20:00'

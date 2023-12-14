@@ -1,8 +1,7 @@
 ---
-title:  'Speak Now or Forever Hold Your Peace'
+title: 'Speak Now or Forever Hold Your Peace'
 dateformat: 'd-m-Y H:i'
-date:  '09-01-16 00:00'
-
+date: '09-01-16 00:00'
 eventdate: '2016-01-09'
 eventstart: '18:30'
 eventend: '20:00'

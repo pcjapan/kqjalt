@@ -1,8 +1,7 @@
 ---
-title:  'Year End Party'
+title: 'Year End Party'
 dateformat: 'd-m-Y H:i'
-date:  '12-12-09 00:00'
-
+date: '12-12-09 00:00'
 eventdate: '2009-12-12'
 eventstart: '19:00'
 eventend: '20:30'

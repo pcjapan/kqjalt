@@ -1,8 +1,7 @@
 ---
-title:  'Behavior Management'
+title: 'Behavior Management'
 dateformat: 'd-m-Y H:i'
-date:  '12-03-11 00:00'
-
+date: '12-03-11 00:00'
 eventdate: '2011-03-12'
 eventstart: '18:30'
 eventend: '20:00'

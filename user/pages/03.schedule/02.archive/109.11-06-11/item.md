@@ -1,8 +1,7 @@
 ---
-title:  'Testing Times: Ensuring Success'
+title: 'Testing Times: Ensuring Success'
 dateformat: 'd-m-Y H:i'
-date:  '11-06-11 00:00'
-
+date: '11-06-11 00:00'
 eventdate: '2011-06-11'
 eventstart: '18:30'
 eventend: '20:00'

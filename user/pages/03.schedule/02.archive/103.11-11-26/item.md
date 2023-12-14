@@ -1,8 +1,7 @@
 ---
-title:  'Here we are, now motivate us: Strategies for generating student motivation'
+title: 'Here we are, now motivate us: Strategies for generating student motivation'
 dateformat: 'd-m-Y H:i'
-date:  '26-11-11 00:00'
-
+date: '26-11-11 00:00'
 eventdate: '2011-11-26'
 eventstart: '18:30'
 eventend: '20:00'

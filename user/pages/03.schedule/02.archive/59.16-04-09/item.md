@@ -1,8 +1,7 @@
 ---
-title:  'Student-Created Videos'
+title: 'Student-Created Videos'
 dateformat: 'd-m-Y H:i'
-date:  '09-04-16 00:00'
-
+date: '09-04-16 00:00'
 eventdate: '2016-04-09'
 eventstart: '18:30'
 eventend: '20:00'

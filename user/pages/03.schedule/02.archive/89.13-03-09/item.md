@@ -1,8 +1,7 @@
 ---
-title:  'Between a rock and a hard place: What are our students doing on Facebook and YouTube?'
+title: 'Between a rock and a hard place: What are our students doing on Facebook and YouTube?'
 dateformat: 'd-m-Y H:i'
-date:  '09-03-13 00:00'
-
+date: '09-03-13 00:00'
 eventdate: '2013-03-09'
 eventstart: '18:30'
 eventend: '20:00'

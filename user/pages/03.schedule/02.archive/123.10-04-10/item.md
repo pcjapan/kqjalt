@@ -1,8 +1,7 @@
 ---
-title:  'Implementing Differing SLA theories into Teaching'
+title: 'Implementing Differing SLA theories into Teaching'
 dateformat: 'd-m-Y H:i'
-date:  '10-04-10 00:00'
-
+date: '10-04-10 00:00'
 eventdate: '2010-04-10'
 eventstart: '18:30'
 eventend: '20:00'

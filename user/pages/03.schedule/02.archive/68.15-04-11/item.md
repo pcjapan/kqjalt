@@ -1,8 +1,7 @@
 ---
-title:  'Gender differences and literacy'
+title: 'Gender differences and literacy'
 dateformat: 'd-m-Y H:i'
-date:  '11-04-15 00:00'
-
+date: '11-04-15 00:00'
 eventdate: '2015-04-11'
 eventstart: '18:30'
 eventend: '20:00'

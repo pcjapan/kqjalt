@@ -1,8 +1,7 @@
 ---
-title:  'Making Money Online'
+title: 'Making Money Online'
 dateformat: 'd-m-Y H:i'
-date:  '11-10-14 00:00'
-
+date: '11-10-14 00:00'
 eventdate: '2014-10-11'
 eventstart: '18:30'
 eventend: '20:00'

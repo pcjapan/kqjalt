@@ -1,8 +1,7 @@
 ---
-title:  'Developing a Sustainable Extensive Reading Programme'
+title: 'Developing a Sustainable Extensive Reading Programme'
 dateformat: 'd-m-Y H:i'
-date:  '08-04-17 00:00'
-
+date: '08-04-17 00:00'
 eventdate: '2017-04-08'
 eventstart: '18:30'
 eventend: '20:00'

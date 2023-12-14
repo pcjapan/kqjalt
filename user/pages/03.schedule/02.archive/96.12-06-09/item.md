@@ -1,8 +1,7 @@
 ---
-title:  'Issues relating to independently run English language schools'
+title: 'Issues relating to independently run English language schools'
 dateformat: 'd-m-Y H:i'
-date:  '09-06-12 00:00'
-
+date: '09-06-12 00:00'
 eventdate: '2012-06-09'
 eventstart: '18:30'
 eventend: '20:00'

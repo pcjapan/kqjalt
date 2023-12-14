@@ -1,12 +1,12 @@
 ---
-title:  '2030 SDGs game – An invitation to explore our world and yourself –  / 「2030 SDGs ゲーム」～世界と自分を探求する体験～'
+title: '2030 SDGs game – An invitation to explore our world and yourself –  / 「2030 SDGs ゲーム」～世界と自分を探求する体験～'
 dateformat: 'd-m-Y H:i'
-date:  '20-05-23 00:00'
+date: '20-05-23 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2023' 
+        - '2023'
         - archive
 content:
     items: '@self.modular'

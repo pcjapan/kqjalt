@@ -1,8 +1,7 @@
 ---
-title:  'Active Participation through Student Response'
+title: 'Active Participation through Student Response'
 dateformat: 'd-m-Y H:i'
-date:  '12-02-11 00:00'
-
+date: '12-02-11 00:00'
 eventdate: '2011-02-12'
 eventstart: '18:30'
 eventend: '20:00'

@@ -1,12 +1,12 @@
 ---
-title:  'Getting More Out of Peer Feedback'
+title: 'Getting More Out of Peer Feedback'
 dateformat: 'd-m-Y H:i'
-date:  '05-11-22 00:00'
+date: '05-11-22 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2022' 
+        - '2022'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '18:15'
 eventend: '19:45'
 eventspeaker: 'Zack Robertson'
 ---
-
-
 
 Peer feedback activities (also known as “peer assessment” or “peer review”) are popular among teachers for facilitating student interaction and task engagement while simultaneously offering students formative assessment opportunities. When implemented properly, they can encourage synthesis of target material as learners attend to specific aspects of quality criterion, as well as deeper processing that has been linked with metacognitive development such as self-regulation, awareness, and evaluative expertise. Additionally, the cooperative aspects of peer feedback have been linked to increased learner enjoyment, resulting in lowered affective resistance toward communicating in the L2.
 

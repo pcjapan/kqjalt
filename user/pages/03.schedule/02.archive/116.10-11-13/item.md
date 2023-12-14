@@ -1,8 +1,7 @@
 ---
-title:  'Teaching and learning English humour, in principle and practice'
+title: 'Teaching and learning English humour, in principle and practice'
 dateformat: 'd-m-Y H:i'
-date:  '13-11-10 00:00'
-
+date: '13-11-10 00:00'
 eventdate: '2010-11-13'
 eventstart: '18:30'
 eventend: '20:00'

@@ -1,8 +1,7 @@
 ---
-title:  'Choosing Topics for Writing Classes'
+title: 'Choosing Topics for Writing Classes'
 dateformat: 'd-m-Y H:i'
-date:  '09-05-09 00:00'
-
+date: '09-05-09 00:00'
 eventdate: '2009-05-09'
 eventstart: '18:00'
 eventend: '20:00'

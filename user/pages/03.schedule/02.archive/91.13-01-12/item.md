@@ -1,8 +1,7 @@
 ---
-title:  'TOEIC vocabulary teaching: applying CLIL'
+title: 'TOEIC vocabulary teaching: applying CLIL'
 dateformat: 'd-m-Y H:i'
-date:  '12-01-13 00:00'
-
+date: '12-01-13 00:00'
 eventdate: '2013-01-12'
 eventstart: '18:30'
 eventend: '20:00'

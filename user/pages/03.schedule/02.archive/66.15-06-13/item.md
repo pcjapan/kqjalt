@@ -1,8 +1,7 @@
 ---
-title:  'The innovation adoption lifecycle and teaching practice'
+title: 'The innovation adoption lifecycle and teaching practice'
 dateformat: 'd-m-Y H:i'
-date:  '13-06-15 00:00'
-
+date: '13-06-15 00:00'
 eventdate: '2015-06-13'
 eventstart: '18:30'
 eventend: '20:00'

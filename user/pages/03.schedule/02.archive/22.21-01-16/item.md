@@ -1,12 +1,12 @@
 ---
-title:  'An input task output task framework for TBLT in Japan'
+title: 'An input task output task framework for TBLT in Japan'
 dateformat: 'd-m-Y H:i'
-date:  '16-01-21 00:00'
+date: '16-01-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'

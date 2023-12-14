@@ -1,8 +1,7 @@
 ---
-title:  'Principles of vocabulary acquisition: How well do textbooks do?'
+title: 'Principles of vocabulary acquisition: How well do textbooks do?'
 dateformat: 'd-m-Y H:i'
-date:  '24-05-14 00:00'
-
+date: '24-05-14 00:00'
 eventdate: '2014-05-24'
 eventstart: '18:30'
 eventend: '20:00'

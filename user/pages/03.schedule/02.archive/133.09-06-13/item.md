@@ -1,12 +1,12 @@
 ---
-title:  'Learn through ENIE (English Newspaper in Education)'
+title: 'Learn through ENIE (English Newspaper in Education)'
 dateformat: 'd-m-Y H:i'
-date:  '13-06-09 00:00'
+date: '13-06-09 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,7 +18,6 @@ eventstart: '18:00'
 eventend: '20:00'
 eventspeaker: 'Toshihiro Yamanishi '
 ---
-
 
 I would say that I have not taught English but taught through English. Through this session I would like to share with the participants various merits of ENIE: English Newspaper in Education.  Many kinds of activities of ENIE will be introduced.
 これまでの英語教育の真髄として、私は「英語『を』教える」のではなく、「英語『で』教える」（英語を用いて、教養として物事を教える）事を中心に据えて参りました。今回のテーマは『学校現場で活用できる英字新聞を活用した時事内容（English Newspaper in Education）』と題して、文字通り『ENIE』の効用を皆様と共に考えていきたいと思います。これまでの実践歴を紹介しつつ、最新実践などもご紹介できればと思います。

@@ -1,12 +1,12 @@
 ---
-title:  'Projects for Teaching Critical Thinking Skills'
+title: 'Projects for Teaching Critical Thinking Skills'
 dateformat: 'd-m-Y H:i'
-date:  '08-05-21 00:00'
+date: '08-05-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'

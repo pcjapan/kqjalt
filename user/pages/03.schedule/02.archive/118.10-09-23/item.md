@@ -1,8 +1,7 @@
 ---
-title:  'MASH ETJ JALT Equinox'
+title: 'MASH ETJ JALT Equinox'
 dateformat: 'd-m-Y H:i'
-date:  '23-09-10 00:00'
-
+date: '23-09-10 00:00'
 eventdate: '2010-09-23'
 eventstart: '13:15'
 eventend: '16:30'

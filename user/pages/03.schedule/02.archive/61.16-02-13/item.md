@@ -1,8 +1,7 @@
 ---
-title:  'Adaptable Vocabulary Activities for ESP and Beyond & Engaging Learners with Lateral Thinking Tasks'
+title: 'Adaptable Vocabulary Activities for ESP and Beyond & Engaging Learners with Lateral Thinking Tasks'
 dateformat: 'd-m-Y H:i'
-date:  '13-02-16 00:00'
-
+date: '13-02-16 00:00'
 eventdate: '2016-02-13'
 eventstart: '18:30'
 eventend: '20:30'

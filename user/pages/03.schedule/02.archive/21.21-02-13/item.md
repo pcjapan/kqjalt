@@ -1,12 +1,12 @@
 ---
-title:  'Building an Effective, Free Language Lab'
+title: 'Building an Effective, Free Language Lab'
 dateformat: 'd-m-Y H:i'
-date:  '13-02-21 00:00'
+date: '13-02-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '17:00'
 eventend: '18:30'
 eventspeaker: 'Erin Noxon'
 ---
-
-
 
 Speaking practice, listening to different speakers, answering questions... All things you would love for your students to be able do in the language lab. But, do you have the time, the budget, and can you find the right software? What if you could do it all for free, with equipment that you already have lying around, and, after the initial set up time, the class took care of itself? Over the past years I've created my own curriculum out of spare parts, using G Suite tools for voice recognition, forms-based grading, Elllo.org, and more. I'll teach you how to do it and share all of my materials with you.
 

@@ -1,8 +1,7 @@
 ---
-title:  'End of Year Party & Book Swap'
+title: 'End of Year Party & Book Swap'
 dateformat: 'd-m-Y H:i'
-date:  '13-12-08 00:00'
-
+date: '13-12-08 00:00'
 eventdate: '2008-12-13'
 eventstart: '18:00'
 eventend: '20:00'

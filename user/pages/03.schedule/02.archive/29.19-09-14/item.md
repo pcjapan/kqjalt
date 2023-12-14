@@ -1,12 +1,12 @@
 ---
-title:  'Becoming a Better English Teacher Through Action Research'
+title: 'Becoming a Better English Teacher Through Action Research'
 dateformat: 'd-m-Y H:i'
-date:  '14-09-19 00:00'
+date: '14-09-19 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

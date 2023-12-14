@@ -1,8 +1,7 @@
 ---
-title:  'Adapting Websites and Games for the Classroom'
+title: 'Adapting Websites and Games for the Classroom'
 dateformat: 'd-m-Y H:i'
-date:  '10-10-15 00:00'
-
+date: '10-10-15 00:00'
 eventdate: '2015-10-10'
 eventstart: '18:30'
 eventend: '20:00'

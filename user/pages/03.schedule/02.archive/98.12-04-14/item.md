@@ -1,8 +1,7 @@
 ---
-title:  'Task repetition and fluency development in the Japan classes: How much is enough?'
+title: 'Task repetition and fluency development in the Japan classes: How much is enough?'
 dateformat: 'd-m-Y H:i'
-date:  '14-04-12 00:00'
-
+date: '14-04-12 00:00'
 eventdate: '2012-04-14'
 eventstart: '18:30'
 eventend: '20:00'

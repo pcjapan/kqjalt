@@ -1,12 +1,11 @@
 ---
-title:  'Putting Our Heads Together: A Discussion of Textbook Abandonment and Extensive Reading'
+title: 'Putting Our Heads Together: A Discussion of Textbook Abandonment and Extensive Reading'
 dateformat: 'd-m-Y H:i'
-date:  '12-07-08 00:00'
-
+date: '12-07-08 00:00'
 eventdate: '2008-07-12'
 eventstart: '19:00'
 eventend: '21:00'
-eventspeaker: 'Various'
+eventspeaker: Various
 ---
 
 This month, we're going to give some time to talk about topics that merit discussion, but haven't had their own program recently. There will be something for everyone! If there's a topic you'd like to discuss, let us know or bring it along.

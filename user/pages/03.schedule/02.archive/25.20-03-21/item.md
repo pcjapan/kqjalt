@@ -1,12 +1,12 @@
 ---
-title:  'CANCELLED More Personal Finance in Japan'
+title: 'CANCELLED More Personal Finance in Japan'
 dateformat: 'd-m-Y H:i'
-date:  '21-03-20 00:00'
+date: '21-03-20 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2020' 
+        - '2020'
         - archive
 content:
     items: '@self.modular'

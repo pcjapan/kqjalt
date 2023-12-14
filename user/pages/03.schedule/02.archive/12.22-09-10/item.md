@@ -1,7 +1,7 @@
 ---
 title: 'Lesson Planning: The Key to Effective Teaching'
 dateformat: 'd-m-Y H:i'
-date: '22-09-2010 00:00'
+date: '22-09-22 00:00'
 taxonomy:
     content:
         - events

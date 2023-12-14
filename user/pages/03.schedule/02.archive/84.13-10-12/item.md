@@ -1,8 +1,7 @@
 ---
-title:  'Practical neuroELT for kids and adults'
+title: 'Practical neuroELT for kids and adults'
 dateformat: 'd-m-Y H:i'
-date:  '12-10-13 00:00'
-
+date: '12-10-13 00:00'
 eventdate: '2013-10-12'
 eventstart: '18:30'
 eventend: '20:00'

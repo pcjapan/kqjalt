@@ -1,8 +1,7 @@
 ---
-title:  'Developing resources for self-directed learning'
+title: 'Developing resources for self-directed learning'
 dateformat: 'd-m-Y H:i'
-date:  '11-02-12 00:00'
-
+date: '11-02-12 00:00'
 eventdate: '2012-02-11'
 eventstart: '18:30'
 eventend: '20:00'

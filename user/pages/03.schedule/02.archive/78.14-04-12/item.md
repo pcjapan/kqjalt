@@ -1,12 +1,12 @@
 ---
-title:  'Creating Multimedia Content with Apple Technology'
+title: 'Creating Multimedia Content with Apple Technology'
 dateformat: 'd-m-Y H:i'
-date:  '12-04-14 00:00'
+date: '12-04-14 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

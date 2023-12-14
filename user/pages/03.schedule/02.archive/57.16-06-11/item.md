@@ -1,8 +1,7 @@
 ---
-title:  'Bringing Neuroscience and Technology into Your Classroom at Minimal Cost'
+title: 'Bringing Neuroscience and Technology into Your Classroom at Minimal Cost'
 dateformat: 'd-m-Y H:i'
-date:  '11-06-16 00:00'
-
+date: '11-06-16 00:00'
 eventdate: '2016-06-11'
 eventstart: '18:30'
 eventend: '20:00'

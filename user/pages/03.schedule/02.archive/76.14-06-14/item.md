@@ -1,8 +1,7 @@
 ---
-title:  'English Circles and the ELF Class'
+title: 'English Circles and the ELF Class'
 dateformat: 'd-m-Y H:i'
-date:  '14-06-14 00:00'
-
+date: '14-06-14 00:00'
 eventdate: '2014-06-14'
 eventstart: '18:30'
 eventend: '20:00'

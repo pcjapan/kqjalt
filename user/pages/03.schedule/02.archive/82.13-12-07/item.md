@@ -1,12 +1,12 @@
 ---
-title:  'Self-regulation in Foreign Language Learning: Shared Perspectives'
+title: 'Self-regulation in Foreign Language Learning: Shared Perspectives'
 dateformat: 'd-m-Y H:i'
-date:  '07-12-13 00:00'
+date: '07-12-13 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

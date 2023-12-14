@@ -1,8 +1,7 @@
 ---
-title:  'Task complexity and second language development: tools to promote speaking'
+title: 'Task complexity and second language development: tools to promote speaking'
 dateformat: 'd-m-Y H:i'
-date:  '12-05-12 00:00'
-
+date: '12-05-12 00:00'
 eventdate: '2012-05-12'
 eventstart: '18:30'
 eventend: '20:00'

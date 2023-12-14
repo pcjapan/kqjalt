@@ -1,8 +1,7 @@
 ---
-title:  'So you want to publish an EFL textbook? Four points of view to consider when writing a proposal'
+title: 'So you want to publish an EFL textbook? Four points of view to consider when writing a proposal'
 dateformat: 'd-m-Y H:i'
-date:  '08-02-14 00:00'
-
+date: '08-02-14 00:00'
 eventdate: '2014-02-08'
 eventstart: '18:30'
 eventend: '20:00'

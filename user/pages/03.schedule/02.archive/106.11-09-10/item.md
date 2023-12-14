@@ -1,8 +1,7 @@
 ---
-title:  'A Fluency First Approach through Extensive Writing in the EFL Context'
+title: 'A Fluency First Approach through Extensive Writing in the EFL Context'
 dateformat: 'd-m-Y H:i'
-date:  '10-09-11 00:00'
-
+date: '10-09-11 00:00'
 eventdate: '2011-09-10'
 eventstart: '18:30'
 eventend: '20:00'

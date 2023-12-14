@@ -1,8 +1,7 @@
 ---
-title:  'Dogme in ELT: A demonstration'
+title: 'Dogme in ELT: A demonstration'
 dateformat: 'd-m-Y H:i'
-date:  '09-04-11 00:00'
-
+date: '09-04-11 00:00'
 eventdate: '2011-04-09'
 eventstart: '18:30'
 eventend: '20:00'

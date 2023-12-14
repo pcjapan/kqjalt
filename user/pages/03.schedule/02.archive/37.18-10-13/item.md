@@ -1,8 +1,7 @@
 ---
-title:  'The Science of Happiness: Positive Psychology in ELT'
+title: 'The Science of Happiness: Positive Psychology in ELT'
 dateformat: 'd-m-Y H:i'
-date:  '13-10-18 00:00'
-
+date: '13-10-18 00:00'
 eventdate: '2018-10-13'
 eventstart: '19:00'
 eventend: '20:30'

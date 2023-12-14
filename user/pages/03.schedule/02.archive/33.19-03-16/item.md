@@ -1,12 +1,12 @@
 ---
-title:  'The Blended Classroom - Taking Learning Online'
+title: 'The Blended Classroom - Taking Learning Online'
 dateformat: 'd-m-Y H:i'
-date:  '16-03-19 00:00'
+date: '16-03-19 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,7 +18,6 @@ eventstart: '19:00'
 eventend: '20:30'
 eventspeaker: 'Paul Collett; Malcolm Swanson'
 ---
-
 
 In this presentation, options for moving parts of a language course online will be demonstrated and discussed. Positive outcomes as well as possible pitfalls will be addressed. Both presenters have had extensive experience working with online learning resources and systems.
 

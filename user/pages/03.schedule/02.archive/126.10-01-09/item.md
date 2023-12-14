@@ -1,12 +1,12 @@
 ---
-title:  "Developing Japanese learners' use of the English article system through task-based learning in an intermediate level University program."
+title: 'Developing Japanese learners'' use of the English article system through task-based learning in an intermediate level University program.'
 dateformat: 'd-m-Y H:i'
-date:  '09-01-10 00:00'
+date: '09-01-10 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

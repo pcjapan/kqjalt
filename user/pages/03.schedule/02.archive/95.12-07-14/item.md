@@ -1,8 +1,7 @@
 ---
-title:  'FAB3: First Annual Brain Days'
+title: 'FAB3: First Annual Brain Days'
 dateformat: 'd-m-Y H:i'
-date:  '14-07-12 00:00'
-
+date: '14-07-12 00:00'
 eventdate: '2012-07-14'
 eventstart: '00:00'
 eventend: '00:00'

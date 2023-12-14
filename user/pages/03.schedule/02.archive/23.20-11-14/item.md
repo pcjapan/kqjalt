@@ -1,12 +1,12 @@
 ---
-title:  'My Share - Ideas That Work'
+title: 'My Share - Ideas That Work'
 dateformat: 'd-m-Y H:i'
-date:  '14-11-20 00:00'
+date: '14-11-20 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2020' 
+        - '2020'
         - archive
 content:
     items: '@self.modular'
@@ -18,7 +18,6 @@ eventstart: '19:00'
 eventend: '20:30'
 eventspeaker: 'Roger Ferrari; Sophie Otsuru; Ben Rentler; Malcolm Swanson'
 ---
-
 
 We all have ideas that help make our classes better for us and our students. Come and hear about some activities and approaches that our speakers have found useful in their teaching.
 This session will be presented live over Zoom..

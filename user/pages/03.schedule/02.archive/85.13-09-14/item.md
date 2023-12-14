@@ -1,8 +1,7 @@
 ---
-title:  'Doing data analysis: Some tools and techniques'
+title: 'Doing data analysis: Some tools and techniques'
 dateformat: 'd-m-Y H:i'
-date:  '14-09-13 00:00'
-
+date: '14-09-13 00:00'
 eventdate: '2013-09-14'
 eventstart: '18:30'
 eventend: '20:00'

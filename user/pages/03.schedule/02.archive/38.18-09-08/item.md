@@ -1,8 +1,7 @@
 ---
-title:  'Inside a Fluency-focused English Classroom'
+title: 'Inside a Fluency-focused English Classroom'
 dateformat: 'd-m-Y H:i'
-date:  '08-09-18 00:00'
-
+date: '08-09-18 00:00'
 eventdate: '2018-09-08'
 eventstart: '19:00'
 eventend: '20:30'

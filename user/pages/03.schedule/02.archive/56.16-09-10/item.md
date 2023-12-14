@@ -1,8 +1,7 @@
 ---
-title:  'Creative Teaching for 21st Century Learners'
+title: 'Creative Teaching for 21st Century Learners'
 dateformat: 'd-m-Y H:i'
-date:  '10-09-16 00:00'
-
+date: '10-09-16 00:00'
 eventdate: '2016-09-10'
 eventstart: '18:30'
 eventend: '20:00'

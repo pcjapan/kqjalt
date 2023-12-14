@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1702369035,
-    'checksum' => '0f0cd69c14281854a340703921311abf',
+    'timestamp' => 1702511868,
+    'checksum' => '9bee4305c8a3e03d5442c5e887ef55ee',
     'files' => [
         'user/config' => [
             'media' => [
@@ -35,11 +35,11 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1701574559
+                'modified' => 1702464900
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1702369031
+                'modified' => 1702490409
             ],
             'themes/bootstrap4' => [
                 'file' => 'user/config/themes/bootstrap4.yaml',
@@ -3922,7 +3922,8 @@ node_modules'
             ],
             'taxonomies' => [
                 0 => 'content',
-                1 => 'events'
+                1 => 'events',
+                2 => 'year'
             ],
             'metadata' => [
                 'description' => 'This is the website for the Japan Association for Language Teaching Kitakyushu chapter'
@@ -3995,8 +3996,8 @@ node_modules'
                 ],
                 'dateformat' => [
                     'default' => 'd-m-Y H:i',
-                    'short' => 'jS M Y',
-                    'long' => 'l jS \\of F g:i A'
+                    'short' => 'd-m-y G:i',
+                    'long' => 'jS M Y'
                 ],
                 'publish_dates' => true,
                 'process' => [

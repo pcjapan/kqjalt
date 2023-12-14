@@ -1,8 +1,7 @@
 ---
-title:  'Practice makes Perfect?'
+title: 'Practice makes Perfect?'
 dateformat: 'd-m-Y H:i'
-date:  '11-02-17 00:00'
-
+date: '11-02-17 00:00'
 eventdate: '2017-02-11'
 eventstart: '18:30'
 eventend: '20:00'

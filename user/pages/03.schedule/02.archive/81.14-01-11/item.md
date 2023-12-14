@@ -1,8 +1,7 @@
 ---
-title:  'Connecting Neuroscience and ELT: What we learned in 2013'
+title: 'Connecting Neuroscience and ELT: What we learned in 2013'
 dateformat: 'd-m-Y H:i'
-date:  '11-01-14 00:00'
-
+date: '11-01-14 00:00'
 eventdate: '2014-01-11'
 eventstart: '18:30'
 eventend: '20:00'

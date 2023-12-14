@@ -1,12 +1,12 @@
 ---
-title:  'Teaching Younger Learners: Ideas and Information'
+title: 'Teaching Younger Learners: Ideas and Information'
 dateformat: 'd-m-Y H:i'
-date:  '13-03-21 00:00'
+date: '13-03-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'

@@ -1,8 +1,7 @@
 ---
-title:  'Helping our students become multicompetent academic writers'
+title: 'Helping our students become multicompetent academic writers'
 dateformat: 'd-m-Y H:i'
-date:  '06-10-12 00:00'
-
+date: '06-10-12 00:00'
 eventdate: '2012-10-06'
 eventstart: '18:30'
 eventend: '20:00'

@@ -1,8 +1,7 @@
 ---
-title:  'Card games and vocabulary building'
+title: 'Card games and vocabulary building'
 dateformat: 'd-m-Y H:i'
-date:  '09-05-15 00:00'
-
+date: '09-05-15 00:00'
 eventdate: '2015-05-09'
 eventstart: '18:30'
 eventend: '20:00'

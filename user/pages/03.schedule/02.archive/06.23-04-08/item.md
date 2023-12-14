@@ -1,12 +1,12 @@
 ---
-title:  'Maximising the Potential of Machine Translation: A Workshop for Language Educators '
+title: 'Maximising the Potential of Machine Translation: A Workshop for Language Educators '
 dateformat: 'd-m-Y H:i'
-date:  '08-04-23 00:00'
+date: '08-04-23 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2023' 
+        - '2023'
         - archive
 content:
     items: '@self.modular'

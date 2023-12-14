@@ -1,12 +1,12 @@
 ---
-title:  'A Workshop: Sequencing Classroom Activities / Tasks for More Effective Communication'
+title: 'A Workshop: Sequencing Classroom Activities / Tasks for More Effective Communication'
 dateformat: 'd-m-Y H:i'
-date:  '09-02-19 00:00'
+date: '09-02-19 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

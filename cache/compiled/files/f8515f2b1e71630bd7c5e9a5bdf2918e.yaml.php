@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/site.yaml',
-    'modified' => 1701574559,
-    'size' => 380,
+    'modified' => 1702464900,
+    'size' => 389,
     'data' => [
         'title' => 'Kitakyushu JALT',
         'default_lang' => 'en',
@@ -13,7 +13,8 @@ return [
         ],
         'taxonomies' => [
             0 => 'content',
-            1 => 'events'
+            1 => 'events',
+            2 => 'year'
         ],
         'metadata' => [
             'description' => 'This is the website for the Japan Association for Language Teaching Kitakyushu chapter'

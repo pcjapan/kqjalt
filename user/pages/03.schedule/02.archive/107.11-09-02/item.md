@@ -1,8 +1,7 @@
 ---
-title:  'The significance of the implicit vs. explicit distinction for language pedagogy'
+title: 'The significance of the implicit vs. explicit distinction for language pedagogy'
 dateformat: 'd-m-Y H:i'
-date:  '02-09-11 00:00'
-
+date: '02-09-11 00:00'
 eventdate: '2011-09-02'
 eventstart: '19:00'
 eventend: '20:30'

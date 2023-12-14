@@ -1,12 +1,12 @@
 ---
-title:  'Lightning Presentation Night'
+title: 'Lightning Presentation Night'
 dateformat: 'd-m-Y H:i'
-date:  '10-11-12 00:00'
+date: '10-11-12 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -16,7 +16,7 @@ mytitle: 'Page Label'
 eventdate: '2012-11-10'
 eventstart: '18:30'
 eventend: '20:00'
-eventspeaker: 'Various'
+eventspeaker: Various
 ---
 
 Kitakyushu JALT will be hosting our second night of short fast-paced presentations covering a variety of topics to do with classroom learning and teaching. There will be 7 presenters who will each take turns presenting their chosen topic using only 20 slides for 20 seconds per slide. This creative event promises to be a rewarding experience for all involved where people can have fun sharing ideas and thoughts about their classroom experiences and research. 

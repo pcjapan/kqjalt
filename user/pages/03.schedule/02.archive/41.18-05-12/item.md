@@ -1,8 +1,7 @@
 ---
-title:  'The Benefits, Challenges, and Results of a Research-based Vocabulary Program'
+title: 'The Benefits, Challenges, and Results of a Research-based Vocabulary Program'
 dateformat: 'd-m-Y H:i'
-date:  '12-05-18 00:00'
-
+date: '12-05-18 00:00'
 eventdate: '2018-05-12'
 eventstart: '19:00'
 eventend: '20:30'

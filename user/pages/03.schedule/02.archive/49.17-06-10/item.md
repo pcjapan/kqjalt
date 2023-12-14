@@ -1,8 +1,7 @@
 ---
-title:  'The Brain is Built for Stories: Using them in ELT'
+title: 'The Brain is Built for Stories: Using them in ELT'
 dateformat: 'd-m-Y H:i'
-date:  '10-06-17 00:00'
-
+date: '10-06-17 00:00'
 eventdate: '2017-06-10'
 eventstart: '18:30'
 eventend: '20:00'

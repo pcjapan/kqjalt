@@ -1,12 +1,12 @@
 ---
-title:  'My Share - Ideas That Work'
+title: 'My Share - Ideas That Work'
 dateformat: 'd-m-Y H:i'
-date:  '09-11-19 00:00'
+date: '09-11-19 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -16,7 +16,7 @@ mytitle: 'Page Label'
 eventdate: '2019-11-09'
 eventstart: '19:00'
 eventend: '20:30'
-eventspeaker: 'Various'
+eventspeaker: Various
 ---
 
 We all have ideas that help make our classes better for us and our students. Come and hear about some activities and approaches that our members have found useful in their teaching.

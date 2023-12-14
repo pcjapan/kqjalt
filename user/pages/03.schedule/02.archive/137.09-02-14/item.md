@@ -1,12 +1,12 @@
 ---
-title:  'How SELHi has changed our students'
+title: 'How SELHi has changed our students'
 dateformat: 'd-m-Y H:i'
-date:  '14-02-09 00:00'
+date: '14-02-09 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

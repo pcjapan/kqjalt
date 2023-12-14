@@ -1,12 +1,12 @@
 ---
-title:  'Lightning Presentations Night'
+title: 'Lightning Presentations Night'
 dateformat: 'd-m-Y H:i'
-date:  '08-11-14 00:00'
+date: '08-11-14 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

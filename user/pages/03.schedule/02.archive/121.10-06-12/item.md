@@ -1,12 +1,12 @@
 ---
-title:  'How and why to improve reading speed'
+title: 'How and why to improve reading speed'
 dateformat: 'd-m-Y H:i'
-date:  '12-06-10 00:00'
+date: '12-06-10 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

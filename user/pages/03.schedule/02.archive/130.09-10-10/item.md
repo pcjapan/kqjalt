@@ -1,12 +1,12 @@
 ---
-title:  'Language Awareness and Language Variety: Ways to Utilize Tacit Knowledge in Language Classrooms'
+title: 'Language Awareness and Language Variety: Ways to Utilize Tacit Knowledge in Language Classrooms'
 dateformat: 'd-m-Y H:i'
-date:  '10-10-09 00:00'
+date: '10-10-09 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '18:00'
 eventend: '20:00'
 eventspeaker: 'Saeko Urushibara'
 ---
-
-
 
 I will propose that English education in Japan, at the elementary school level in particular, be conducted in a larger setting of “Language Awareness”.  This notion includes the following: First, language is a unique symbolic system that allows novel utterances, recursion and so on.  Second, such properties are shared by languages of the world despite apparent differences.  Thus education based on language awareness necessarily involves reflections on the first language and calls for realizing not only language variety but also universal properties that lie behind it.
 

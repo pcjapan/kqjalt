@@ -1,8 +1,7 @@
 ---
-title:  'Improve your memory and learning: Practical classroom applications'
+title: 'Improve your memory and learning: Practical classroom applications'
 dateformat: 'd-m-Y H:i'
-date:  '08-01-11 00:00'
-
+date: '08-01-11 00:00'
 eventdate: '2011-01-08'
 eventstart: '18:30'
 eventend: '20:00'

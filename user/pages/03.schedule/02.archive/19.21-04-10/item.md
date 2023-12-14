@@ -1,12 +1,12 @@
 ---
-title:  'Tips for Teaching Presentation Skills'
+title: 'Tips for Teaching Presentation Skills'
 dateformat: 'd-m-Y H:i'
-date:  '10-04-21 00:00'
+date: '10-04-21 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2021' 
+        - '2021'
         - archive
 content:
     items: '@self.modular'
@@ -18,8 +18,6 @@ eventstart: '17:30'
 eventend: '19:00'
 eventspeaker: 'Tim Thompson'
 ---
-
-
 
 In this talk, the presenter will provide tips for training activities, syllabus design, common mistakes, and both teacher and peer feedback on students’ presentations. While the focus will be on how to teach a university presentation skills course, it should also be useful for teachers of any level who incorporate student presentations into their English classes.
 

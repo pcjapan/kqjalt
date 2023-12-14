@@ -1,8 +1,7 @@
 ---
-title:  'Creative Variations for Textbook Conversations; Assessing Gains in Extensive Reading '
+title: 'Creative Variations for Textbook Conversations; Assessing Gains in Extensive Reading '
 dateformat: 'd-m-Y H:i'
-date:  '14-02-15 00:00'
-
+date: '14-02-15 00:00'
 eventdate: '2015-02-14'
 eventstart: '18:30'
 eventend: '20:00'

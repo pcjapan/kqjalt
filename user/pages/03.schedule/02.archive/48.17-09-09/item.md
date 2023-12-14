@@ -1,8 +1,7 @@
 ---
-title:  'Money 101: Personal Finance, Investing, and Retirement for Residents of Japan'
+title: 'Money 101: Personal Finance, Investing, and Retirement for Residents of Japan'
 dateformat: 'd-m-Y H:i'
-date:  '09-09-17 00:00'
-
+date: '09-09-17 00:00'
 eventdate: '2017-09-09'
 eventstart: '19:00'
 eventend: '21:00'

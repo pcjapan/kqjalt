@@ -1,8 +1,7 @@
 ---
-title:  'Testing Interactional Speaking - A workshop'
+title: 'Testing Interactional Speaking - A workshop'
 dateformat: 'd-m-Y H:i'
-date:  '13-04-13 00:00'
-
+date: '13-04-13 00:00'
 eventdate: '2013-04-13'
 eventstart: '18:30'
 eventend: '20:00'

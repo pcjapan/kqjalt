@@ -1,8 +1,7 @@
 ---
-title:  'Using effective search strategies to access available English language resources for research in Japan'
+title: 'Using effective search strategies to access available English language resources for research in Japan'
 dateformat: 'd-m-Y H:i'
-date:  '12-11-11 00:00'
-
+date: '12-11-11 00:00'
 eventdate: '2011-11-12'
 eventstart: '18:30'
 eventend: '20:00'

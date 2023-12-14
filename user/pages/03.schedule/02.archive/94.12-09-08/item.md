@@ -1,8 +1,7 @@
 ---
-title:  'Connectivism: A learning theory for the digital age. Fad or Future?'
+title: 'Connectivism: A learning theory for the digital age. Fad or Future?'
 dateformat: 'd-m-Y H:i'
-date:  '08-09-12 00:00'
-
+date: '08-09-12 00:00'
 eventdate: '2012-09-08'
 eventstart: '18:30'
 eventend: '20:00'

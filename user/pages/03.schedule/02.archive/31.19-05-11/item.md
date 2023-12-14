@@ -1,12 +1,12 @@
 ---
-title:  'Designing EFL Materials that Work'
+title: 'Designing EFL Materials that Work'
 dateformat: 'd-m-Y H:i'
-date:  '11-05-19 00:00'
+date: '11-05-19 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'

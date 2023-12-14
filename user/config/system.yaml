@@ -42,8 +42,8 @@ pages:
     count: 10
   dateformat:
     default: 'd-m-Y H:i'
-    short: 'jS M Y'
-    long: 'l jS \of F g:i A'
+    short: 'd-m-y G:i'
+    long: 'jS M Y'
   publish_dates: true
   process:
     markdown: true

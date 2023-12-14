@@ -1,8 +1,7 @@
 ---
-title:  'Gamification'
+title: Gamification
 dateformat: 'd-m-Y H:i'
-date:  '10-01-15 00:00'
-
+date: '10-01-15 00:00'
 eventdate: '2015-01-10'
 eventstart: '18:30'
 eventend: '20:00'

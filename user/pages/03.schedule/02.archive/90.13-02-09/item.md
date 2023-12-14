@@ -1,8 +1,7 @@
 ---
-title:  'Love That Dog: Making a Difference with Multimedia'
+title: 'Love That Dog: Making a Difference with Multimedia'
 dateformat: 'd-m-Y H:i'
-date:  '09-02-13 00:00'
-
+date: '09-02-13 00:00'
 eventdate: '2013-02-09'
 eventstart: '18:30'
 eventend: '20:00'

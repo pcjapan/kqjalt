@@ -1,12 +1,12 @@
 ---
-title:  'Dictionary Use Panel'
+title: 'Dictionary Use Panel'
 dateformat: 'd-m-Y H:i'
-date:  '10-07-10 00:00'
+date: '10-07-10 00:00'
 taxonomy:
     content:
-       - events
+        - events
     events:
-        - '2019' 
+        - '2019'
         - archive
 content:
     items: '@self.modular'
@@ -18,7 +18,6 @@ eventstart: '18:30'
 eventend: '20:00'
 eventspeaker: 'Mark Gibson; Eiki Hattori; Go Yoshizawa; David Latz'
 ---
-
 
 Mark Gibson has seen and used a number of dictionaries for young learners and found that for his purposes they are usually too in-depth or don't contain enough words. Because of this he made his own. He will explain what he thinks makes a good dictionary for young learners and how to use it.
 Mark Gibson has taught in Pakistan and Thailand and has his own school in Kokura.
