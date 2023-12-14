@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1702511868,
-    'checksum' => '9bee4305c8a3e03d5442c5e887ef55ee',
+    'timestamp' => 1702592490,
+    'checksum' => 'cf39e43d5a6b059ba90df3d9e82fa15f',
     'files' => [
         'user/config' => [
             'media' => [
@@ -35,15 +35,15 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1702464900
+                'modified' => 1702540190
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1702490409
+                'modified' => 1702576814
             ],
             'themes/bootstrap4' => [
                 'file' => 'user/config/themes/bootstrap4.yaml',
-                'modified' => 1701574535
+                'modified' => 1702534659
             ],
             'themes/quark' => [
                 'file' => 'user/config/themes/quark.yaml',
@@ -137,7 +137,7 @@ return [
         'user/themes' => [
             'themes/bootstrap4' => [
                 'file' => 'user/themes/bootstrap4/bootstrap4.yaml',
-                'modified' => 1701311810
+                'modified' => 1702534485
             ],
             'themes/quark' => [
                 'file' => 'user/themes/quark/quark.yaml',
@@ -148,8 +148,8 @@ return [
     'data' => [
         'themes' => [
             'bootstrap4' => [
-                'navbar_style' => 'navbar-dark',
-                'navbar_bgcolor' => '#050505',
+                'navbar_style' => 'navbar-light',
+                'navbar_bgcolor' => '#ffffff',
                 'dropdown' => [
                     'enabled' => true
                 ]
@@ -4044,7 +4044,7 @@ node_modules'
                 'vary_accept_encoding' => false,
                 'redirect_default_code' => '302',
                 'redirect_trailing_slash' => 1,
-                'redirect_default_route' => 0,
+                'redirect_default_route' => 301,
                 'ignore_files' => [
                     0 => '.DS_Store'
                 ],

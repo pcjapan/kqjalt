@@ -4,6 +4,8 @@ dateformat: 'd-m-Y H:i'
 admin:
     children_display_order: collection
 child_type: news
+routes: {  }
+routable: true
 ---
 
 ## Kitakyushu JALT Events Schedule Information

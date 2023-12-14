@@ -83,7 +83,7 @@ pages:
   vary_accept_encoding: false
   redirect_default_code: '302'
   redirect_trailing_slash: 1
-  redirect_default_route: 0
+  redirect_default_route: 301
   ignore_files:
     - .DS_Store
   ignore_folders:

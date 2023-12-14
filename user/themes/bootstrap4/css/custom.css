@@ -11,19 +11,22 @@ font-size: 100%;
 font-family: sans-serif;
 font-weight: bolder;
 }
+
+.heading-title a {
+color: #d9230f;
+font-size: 110%;
+text-decoration-line: underline red;
+text-decoration-style: dotted;
+}
+
 .heading-title {
 color: purple;
 }
-
-.heading-title a {
-color: red;
-font-size: 120%;
-text-decoration: underline;
-}
-
 .heading-speaker {
-color: #0433FF;
-font-size: 120%}
+color: #3C8A9E;
+font-size: 110%;
+font-weight: bolder;
+}
 
 .well {
     min-height: 20px;
@@ -35,3 +38,5 @@ font-size: 120%}
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
     box-shadow:inset 0 1px 1px rgba(0, 0, 0, 0.05)
 }
+
+

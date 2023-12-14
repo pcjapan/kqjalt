@@ -16,7 +16,7 @@ The following candidates are standing for officer positions in the Kitakyushu JA
 
 * Chapter President - Paul Collett
 * Membership Chair - Charlie Bell
-* Co-Programme Chairs - Malcolm Swanson; Andrew Zitzmann-
+* Co-Programme Chairs - Malcolm Swanson; Andrew Zitzmann
 * Publicity Chair - To be confirmed
 * Reporting Secretary - Markus Yong
 * Treasurer - Greg Holloway

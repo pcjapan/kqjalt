@@ -1,0 +1,90 @@
+form: flex-pages
+id: 'tmp://forms/session/2674021dc9d21beb0af98d75b9de19de'
+unique_id: 2674021dc9d21beb0af98d75b9de19de
+url: 'http://localhost:8888/kqjalt/admin/pages/content'
+user:
+  username: kqjalt-admin
+  email: collett@mac.com
+timestamps:
+  created: 1702522284
+  updated: 1702522536
+data:
+  header:
+    title: 'Special Event in June 2018'
+    eventdate: null
+    eventstart: null
+    eventend: null
+    eventspeaker: null
+    date: '03-01-2018 17:55'
+    body_classes: null
+    order_by: null
+    order_manual: null
+    media_order: null
+    published: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    redirect_default_route: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "We are pleased to announce that <strong> Zoltán Dörnyei (University of Nottingham, UK)</strong> will be joining us for a presentation on June 16th following his plenary at the third international Psychology of Language Learning conference (PLL3) in Tokyo (June 7-10).\n\nInformation on the time and venue are on the <a href=\"/chapters/kq/schedule/2018/June/16\">schedule page</a>. This event is co-sponsored by the JALT Mind, Brain, and Education SIG with support from PLL3.\n\nRegister for the presentation online at http://kqjalt-dornyei.peatix.com/. You can also register and pay onsite from 3:30 pm.\n\n<a href=\"/chapters/kq/content/access-details-dornyei\"><strong>Access details here</strong></a>\n \n<span class=\"pull-right\"><img src=\"/sites/jalt.org.chapters.kq/files/images/Zoltan_Dornyei.png\" alt=\"\" title=\"\"  class=\"img-rounded img-responsive\" width=\"196\" height=\"250\" /></span>\n<h3>Directed Motivational Currents: What Are They and What Can They Teach Us About Long-term Motivation?</h3>\n\nMost people will have come across a curious phenomenon whereby somebody suddenly embarks on a project, invests a great deal of time and energy in it for a period of time and, as a result, often achieves something quite remarkable. This paper  discusses this phenomenon and introduces a novel psychological construct to describe it, ‘Directed Motivational Current’ (DMC). It refers to an intense motivational drive capable of both stimulating and supporting long-term behaviour, such as learning a foreign/second language. DMCs involve unique periods of heightened motivational involvement whereby individuals pursue a goal/vision which is considered personally significant, highly relevant to one’s desired identity and emotionally satisfying – the experience of a DMC carries with it the excitement of journeying down a ‘motivational highway’ towards new pastures. Although such surges occur in numerous guises within the social world, they are admittedly not very frequent and their duration is also limited. This being the case, do they have a more general significance for motivation theory? I will argue in this talk that they do, because DMCs represent an optimal form long-term motivation, one which occurs when all the necessary conditions and components of motivated action are present and act as a harmonious whole. It may be no exaggeration to regard almost any form of long-term motivation as a partial realization of a DMC and, accordingly, understanding how and why a DMC happens will allow us to identify the principal building blocks of sustained motivated behaviour.\n\n<strong>Zoltán Dörnyei</strong> ((PhD in Psycholinguistics, Budapest; PhD in Theology, Durham) is Professor of Psycholinguistics at the School of English, University of Nottingham. He has published extensively on various aspects of language learner characteristics and second language acquisition, and he is the author of over 25 books, including <cite>Motivational Strategies in the Language Classroom</cite> (2001, Cambridge University Press), <cite>Research Methods in Applied Linguistics</cite> ( 2007, Oxford University Press), <cite>Motivating Learners, Motivating Teachers: Building Vision in the Language Classroom</cite> (2014, Cambridge University Press, with M. Kubanyiova), <cite>The Psychology of The Language Learner Revisited</cite> (2015, Routledge, with S. Ryan) and <cite>Motivational Currents in Language Learning: Frameworks for Focused Interventions</cite> (2016, Routledge, with A. Henry and C. Muir)."
+  folder: 'Special Event in June 2018'
+  route: null
+  name: item
+  ordering: true
+  order: 'home,news,schedule,information,location,joining,constitution,Special Event in June 2018'
+  blueprint: null
+  lang: null
+  xss_check: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: content
+  storage_key: 08.content
+  timestamp: 1702522319
+  serialized:
+    __META:
+      key: content
+      storage_key: 08.content
+      template: null
+      storage_timestamp: 1702522319
+      checksum: 0468a00a49886875ead267518e46b58d
+    storage_key: 08.content
+    parent_key: ''
+    order: '08.'
+    folder: content
+    template: default
+    lang: ''
+    header: {  }
+    root: false
+    frontmatter: ''
+    markdown: ''
+    slug: content
+    name: default.md

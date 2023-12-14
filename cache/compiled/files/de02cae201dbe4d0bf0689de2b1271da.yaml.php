@@ -2,8 +2,8 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/system.yaml',
-    'modified' => 1702490409,
-    'size' => 4529,
+    'modified' => 1702576814,
+    'size' => 4531,
     'data' => [
         'absolute_urls' => false,
         'timezone' => 'Asia/Tokyo',
@@ -104,7 +104,7 @@ return [
             'vary_accept_encoding' => false,
             'redirect_default_code' => '302',
             'redirect_trailing_slash' => 1,
-            'redirect_default_route' => 0,
+            'redirect_default_route' => 301,
             'ignore_files' => [
                 0 => '.DS_Store'
             ],

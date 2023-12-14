@@ -1,0 +1,57 @@
+form: flex-pages-raw
+id: 'tmp://forms/session/de215f4417fd5f59fb904b6859b7df7d'
+unique_id: de215f4417fd5f59fb904b6859b7df7d
+url: 'http://localhost:8888/kqjalt/admin/pages/news/2016-annual-general-meeting-%28agm%29-minutes-'
+user:
+  username: kqjalt-admin
+  email: collett@mac.com
+timestamps:
+  created: 1702523299
+  updated: 1702528188
+data:
+  frontmatter: "title:  '2016 Annual General Meeting (AGM) Minutes '\ndate: '08-11-2016 18:18'\ntaxonomy:\n    content:\n        - news\n    year:\n        -  '2016'\nhidemenu: true\nvisible: false"
+  content: "Minutes for the 2016 Kitakyushu JALT AGM, held October 8, 2016.\n"
+  ordering: true
+  folder: 2016-Annual-General-Meeting-(AGM)-Minutes-
+  route: /news
+  name: news
+  order: null
+  blueprint: null
+  header:
+    hidemenu: true
+    media_order: null
+  xss_check: null
+files: {  }
+object:
+  type: pages
+  key: news/2016-annual-general-meeting-(agm)-minutes-
+  storage_key: 02.news/10.2016-Annual-General-Meeting-(AGM)-Minutes-
+  timestamp: 1702521153
+  serialized:
+    __META:
+      key: news/2016-annual-general-meeting-(agm)-minutes-
+      storage_key: 02.news/10.2016-Annual-General-Meeting-(AGM)-Minutes-
+      template: news
+      storage_timestamp: 1702521153
+      markdown:
+        '': { news: 1702513629 }
+      checksum: 127363d54eb70d09c084aaf0f56816db
+    storage_key: 02.news/10.2016-Annual-General-Meeting-(AGM)-Minutes-
+    parent_key: 02.news
+    order: '10.'
+    folder: 2016-Annual-General-Meeting-(AGM)-Minutes-
+    template: news
+    lang: ''
+    header:
+      title: '2016 Annual General Meeting (AGM) Minutes '
+      date: '08-11-16 18:18'
+      taxonomy:
+        content: [news]
+        year: ['2016']
+      hidemenu: true
+      visible: false
+    root: false
+    frontmatter: "title:  '2016 Annual General Meeting (AGM) Minutes '\ndate: '08-11-16 18:18'\ntaxonomy:\n    content:\n        - news\n    year:\n        -  '2016'\nhidemenu: true\nvisible: false"
+    markdown: "Minutes for the 2015 Kitakyushu JALT AGM, held October 8, 2016.\n"
+    slug: 2016-annual-general-meeting-(agm)-minutes-
+    name: news.md

@@ -1,16 +1,16 @@
 {% for p in page.collection %}
 
-<div class="card mb-3">
+<div class="mb-3">
 <div class="heading-title m-1">
               <a href="{{ p.url }}"> {{ p.title }} </a>
                </div>
               <div class="heading-time m-1"> {{ p.date|date("j F, Y") }} </div>
-             <p class="m-2"> {{ p.content|raw|striptags|safe_truncate_html(50) }}<br />
-             <a href="{{ p.url }}">Continue Reading</a> </p>
-
-
+             <p class="m-2"> {{ p.content|raw|striptags|safe_truncate_html(50) }} </p>
+             <p class="m-3">
+             <a href="{{ p.url }}">Continue Reading</a>
+             </p>
 </div>
-
+<hr />
 {% endfor %}
 
 
