@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/flex-objects/languages/ru.yaml',
-    'modified' => 1696976458,
+    'modified' => 1702001645,
     'size' => 588,
     'data' => [
         'PLUGIN_FLEX_OBJECTS' => [

@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/site.yaml',
-    'modified' => 1702540190,
-    'size' => 389,
+    'modified' => 1702606968,
+    'size' => 455,
     'data' => [
         'title' => 'Kitakyushu JALT',
         'default_lang' => 'en',
         'author' => [
-            'name' => 'Websit Administrator',
+            'name' => 'Website Administrator',
             'email' => 'kitakyushu@jalt.org'
         ],
         'taxonomies' => [
@@ -25,7 +25,9 @@ return [
             'size' => 60,
             'delimiter' => '==='
         ],
-        'redirects' => NULL,
+        'redirects' => [
+            '/schedule/([^/]+)/([^/]+)/([^/]+)$' => '/schedule/archive/$1-$2-$3[301]'
+        ],
         'routes' => NULL,
         'blog' => [
             'route' => '/blog'

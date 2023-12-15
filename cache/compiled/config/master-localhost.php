@@ -1,147 +1,147 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1702592490,
-    'checksum' => 'cf39e43d5a6b059ba90df3d9e82fa15f',
+    'timestamp' => 1702606984,
+    'checksum' => '70b6f5a37ec63692a2a9df103c798813',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1701311736
+                'modified' => 1702001645
             ],
             'plugins/bootstrapper' => [
                 'file' => 'user/config/plugins/bootstrapper.yaml',
-                'modified' => 1701665874
+                'modified' => 1702001645
             ],
             'plugins/flex-objects' => [
                 'file' => 'user/config/plugins/flex-objects.yaml',
-                'modified' => 1701573766
+                'modified' => 1702001645
             ],
             'plugins/pagination' => [
                 'file' => 'user/config/plugins/pagination.yaml',
-                'modified' => 1702367721
+                'modified' => 1702429689
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/config/plugins/simplesearch.yaml',
-                'modified' => 1702292639
+                'modified' => 1702280601
             ],
             'scheduler' => [
                 'file' => 'user/config/scheduler.yaml',
-                'modified' => 1701668614
+                'modified' => 1702001645
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1701311652
+                'modified' => 1702001645
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1702540190
+                'modified' => 1702606968
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1702576814
+                'modified' => 1702605846
             ],
             'themes/bootstrap4' => [
                 'file' => 'user/config/themes/bootstrap4.yaml',
-                'modified' => 1702534659
+                'modified' => 1702603851
             ],
             'themes/quark' => [
                 'file' => 'user/config/themes/quark.yaml',
-                'modified' => 1701574372
+                'modified' => 1702001645
             ],
             'versions' => [
                 'file' => 'user/config/versions.yaml',
-                'modified' => 1701311652
+                'modified' => 1702001645
             ]
         ],
         'system/config' => [
             'backups' => [
                 'file' => 'system/config/backups.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'media' => [
                 'file' => 'system/config/media.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'mime' => [
                 'file' => 'system/config/mime.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'permissions' => [
                 'file' => 'system/config/permissions.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'security' => [
                 'file' => 'system/config/security.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'site' => [
                 'file' => 'system/config/site.yaml',
-                'modified' => 1701510484
+                'modified' => 1702001645
             ],
             'system' => [
                 'file' => 'system/config/system.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ],
         'user/plugins' => [
             'plugins/markdown-notices' => [
                 'file' => 'user/plugins/markdown-notices/markdown-notices.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/pagination' => [
                 'file' => 'user/plugins/pagination/pagination.yaml',
-                'modified' => 1683729073
+                'modified' => 1702001645
             ],
             'plugins/form' => [
                 'file' => 'user/plugins/form/form.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/flex-objects' => [
                 'file' => 'user/plugins/flex-objects/flex-objects.yaml',
-                'modified' => 1696976458
+                'modified' => 1702001645
             ],
             'plugins/simplesearch' => [
                 'file' => 'user/plugins/simplesearch/simplesearch.yaml',
-                'modified' => 1661491952
+                'modified' => 1702001645
             ],
             'plugins/admin' => [
                 'file' => 'user/plugins/admin/admin.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/problems' => [
                 'file' => 'user/plugins/problems/problems.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/error' => [
                 'file' => 'user/plugins/error/error.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/bootstrapper' => [
                 'file' => 'user/plugins/bootstrapper/bootstrapper.yaml',
-                'modified' => 1701665861
+                'modified' => 1702001645
             ],
             'plugins/breadcrumbs' => [
                 'file' => 'user/plugins/breadcrumbs/breadcrumbs.yaml',
-                'modified' => 1702292639
+                'modified' => 1658728804
             ],
             'plugins/login' => [
                 'file' => 'user/plugins/login/login.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ],
             'plugins/email' => [
                 'file' => 'user/plugins/email/email.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ],
         'user/themes' => [
             'themes/bootstrap4' => [
                 'file' => 'user/themes/bootstrap4/bootstrap4.yaml',
-                'modified' => 1702534485
+                'modified' => 1702603851
             ],
             'themes/quark' => [
                 'file' => 'user/themes/quark/quark.yaml',
-                'modified' => 1696264967
+                'modified' => 1702001645
             ]
         ]
     ],
@@ -3917,7 +3917,7 @@ node_modules'
             'title' => 'Kitakyushu JALT',
             'default_lang' => 'en',
             'author' => [
-                'name' => 'Websit Administrator',
+                'name' => 'Website Administrator',
                 'email' => 'kitakyushu@jalt.org'
             ],
             'taxonomies' => [
@@ -3934,7 +3934,9 @@ node_modules'
                 'size' => 60,
                 'delimiter' => '==='
             ],
-            'redirects' => NULL,
+            'redirects' => [
+                '/schedule/([^/]+)/([^/]+)/([^/]+)$' => '/schedule/archive/$1-$2-$3[301]'
+            ],
             'routes' => NULL,
             'blog' => [
                 'route' => '/blog'

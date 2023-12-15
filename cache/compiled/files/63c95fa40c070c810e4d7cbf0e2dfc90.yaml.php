@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/flex-objects/blueprints.yaml',
-    'modified' => 1696976458,
+    'modified' => 1702001645,
     'size' => 1394,
     'data' => [
         'name' => 'Flex Objects',
