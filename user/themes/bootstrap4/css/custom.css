@@ -28,6 +28,14 @@ font-size: 110%;
 font-weight: bolder;
 }
 
+.heading-reporter {
+color: #FF6F00;
+font-size: 110%;
+font-weight: bolder;
+font-style: italic;
+}
+
+
 .well {
     min-height: 20px;
     padding: 19px;

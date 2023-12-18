@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/form/blueprints.yaml',
-    'modified' => 1702001645,
+    'modified' => 1702520922,
     'size' => 10463,
     'data' => [
         'name' => 'Form',
         'slug' => 'form',
         'type' => 'plugin',
-        'version' => '7.2.1',
+        'version' => '7.3.0',
         'description' => 'Enables forms handling and processing',
         'icon' => 'check-square',
         'author' => [

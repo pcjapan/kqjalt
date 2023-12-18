@@ -1,0 +1,64 @@
+<div class="list-item">
+
+    {% set header_image = page.header.header_image|defined(true) %}
+    {% set header_image_width  = page.header.header_image_width|defined(900) %}
+    {% set header_image_height = page.header.header_image_height|defined(300) %}
+    {% set header_image_file = page.header.header_image_file %}
+
+   <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="card">
+    <div class="card-header" id="headingOne">
+      <h4 button data-toggle="collapse" data-parent="#accordion" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+
+<div class="heading-title">
+              <h3>{{ page.title }}</h3>
+               </div>
+<div class="heading-speaker">
+{{ page.header.eventspeaker }}
+</div>
+
+<div class="heading-date">
+    {{ page.header.eventdate|date("j F, Y") }} - {{ page.header.eventstart|date("g:ia") }} to {{ page.header.eventend|date("g:ia") }}
+</div>
+
+<div class="heading-reporter">
+Reported By: {{ page.header.eventreporter }}
+</div>
+    </div>
+
+    <div class="list-blog-padding">
+
+        {% if page.header.continue_link is same as(false) %}
+            <p>{{ page.content|raw }}</p>
+            {% if not truncate %}
+                {% set show_prev_next = true %}
+            {% endif %}
+        {% elseif truncate and page.summary != page.content %}
+            <p>{{ page.summary|raw }}</p>
+            <p><a href="{{ page.url }}">Continue Reading</a></p>
+        {% elseif truncate %}
+            {% if page.summary != page.content %}
+                <p>{{ page.content|truncate(550) }}</p>
+            {% else %}
+                <p>{{ page.content|raw }}</p>
+            {% endif %}
+            <p><a href="{{ page.url }}">Continue Reading</a></p>
+        {% else %}
+            <p>{{ page.content|raw }}</p>
+            {% set show_prev_next = true %}
+        {% endif %}
+
+        {% if show_prev_next %}
+            <p class="text-center mt-4">
+                {% if not page.isFirst %}
+                    <a class="btn btn-primary" href="{{ page.nextSibling.url }}"><i class="fa fa-chevron-left"></i> Next Report</a>
+                {% endif %}
+
+                {% if not page.isLast %}
+                    <a class="btn btn-primary" href="{{ page.prevSibling.url }}">Previous Report <i class="fa fa-chevron-right"></i></a>
+                {% endif %}
+            </p>
+        {% endif %}
+
+    </div>
+</div>

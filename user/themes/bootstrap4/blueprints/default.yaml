@@ -35,3 +35,9 @@ form:
               label: Speakers
               validate:
                required: false
+
+            header.eventreporter:
+              type: text
+              label: Event Reported By
+              validate:
+               required: false

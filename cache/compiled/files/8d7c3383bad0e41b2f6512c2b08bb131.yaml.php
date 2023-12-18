@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/bootstrapper/blueprints.yaml',
-    'modified' => 1702001645,
+    'modified' => 1701311803,
     'size' => 2640,
     'data' => [
         'name' => 'Bootstrapper',
