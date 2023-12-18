@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/plugins/bootstrapper.yaml',
-    'modified' => 1701665874,
+    'modified' => 1702001645,
     'size' => 156,
     'data' => [
         'enabled' => true,

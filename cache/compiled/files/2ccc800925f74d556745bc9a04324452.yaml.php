@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/markdown-notices/blueprints.yaml',
-    'modified' => 1696264967,
+    'modified' => 1702001645,
     'size' => 1459,
     'data' => [
         'name' => 'Markdown Notices',
