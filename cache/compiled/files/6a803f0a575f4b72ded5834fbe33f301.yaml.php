@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/plugins/simplesearch.yaml',
-    'modified' => 1702280601,
+    'modified' => 1702292639,
     'size' => 456,
     'data' => [
         'enabled' => true,
