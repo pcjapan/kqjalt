@@ -7,6 +7,7 @@ taxonomy:
     content:
         - reports
 ---
+
 Promoting Sustainable Education: A Cross-Cultural Hybrid Framework for Japanese and Nepalese Younger Learners
 Namiko Tsuruta
 In this presentation Namiko described how she is harnessing the power of the internet to create an ongoing cultural and language exchange between students in Nepal and Japan.

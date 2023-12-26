@@ -1,11 +1,20 @@
 ---
 title: 'Meeting Reports'
-child_type: report
 admin: {  }
 menu: Reports
 dateformat: 'Y-m-d H:i'
 visible: true
+content:
+    items:
+        - '@self.children'
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    limit: 5
+child_type: reports
 ---
+
 Reports of our meetings. Click on a heading to see details.
 * Reports for meetings prior to July 2008 can be found in the [JALT National meeting archives](https://hosted.jalt.org/calendar/archive.php?page=group&id=16).
 * If you are looking for details of upcoming meetings, these are available on our [schedule](schedule) page.

@@ -1,9 +1,7 @@
 {% embed 'partials/base.html.twig' %}
 
-
     {% set base_url = page.parent.url %}
     {% set feed_url = base_url %}
-
 
     {% if base_url == '/' %}
         {% set base_url = '' %}
@@ -21,35 +19,8 @@
                         {% if config.plugins.breadcrumbs.enabled %}
                             {% include 'partials/breadcrumbs.html.twig' %}
                         {% endif %}
-<h2> {{ page.header.title|e }}</h2>
 
-{{ page.content|raw }}
-
-{% set i = 0 %} {# Needed to set ID for collapse block below, iterate through in for section #}
-{% for post in taxonomy.findTaxonomy({'content':'reports'}) %}
-{% set i = i+1 %}
-<div class="panel-group" id="accordion">
-<div class="card  my-3">
-    <div class="card-header" id="heading{{ i }}">
-      <h5>
-      <button class="btn btn-link" data-toggle="collapse" data-target="#collapse{{ i }}" aria-expanded="false" aria-controls="collapse{{ i }}">
-      {{ post.title|e }}
-      </button>
-      </h5>
-    </div>
-
-    <div id="collapse{{ i }}" class="collapse" aria-labelledby="heading{{ i }}" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="panel-body p-2">
-
-   {{ page.header.eventreporter|raw }}
-     {{ post.content|raw }}
-
-      </div>
-    </div>
-  </div>
-</div>
-{% endfor %}
-
+                        {% include 'partials/reports_item.html.twig' with {'blog': page.parent, 'truncate': false, 'big_header': true} %}
                     </div>
 
                     <div class="col-sm-3 offset-sm-1 blog-sidebar">

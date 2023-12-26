@@ -7,6 +7,7 @@ taxonomy:
         - reports
 visible: false
 ---
+
 Teaching Younger Learners: Ideas and Information
 Chelanna White, Mark Fennelly
 Our March meeting was in two parts, beginning with a My Share  session from Chelanna White, an ALT at the senior high school level in Kyoto prefecture currently teaching 1st year students. Chelanna introduced two ideas for lessons that she found to have worked well. 
