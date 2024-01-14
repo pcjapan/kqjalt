@@ -10,7 +10,7 @@ visible: false
 
 Game Based Learning
 Stephen Case, Andrew Gallacher
-In today’s presentation Andrew and Stephen showed us how they successfully developed and implemented a task-based English education curriculum requiring students to design and make their own games.
+In today's presentation Andrew and Stephen showed us how they successfully developed and implemented a task-based English education curriculum requiring students to design and make their own games.
 
 To start their presentation they provided some context about their students and their teaching goals. The students were all undergraduate education majors who will one day be working as educators in various subjects at elementary and secondary schools in Japan. By the end of the course Stephen stated that they should be able to produce a fully working game in a subject of their choice. Additionally they should also provide comprehensive lesson plans, rules and associated materials.
 
@@ -27,5 +27,5 @@ As a part of their action research they conducted entry and exit surveys. Their 
 
 They also found that students work best in pairs so that there is always negotiation and mutual support.
 
-In conclusion they stated that this project might not always engage with all students all the time, but they felt it was nonetheless helpful with most of them. This was because they felt the activity was worthwhile at helping improve their students’ ability to plan and explain concepts better, thus supporting their future teaching careers.
-<a href="/chapters/kq/schedule/2021/june/19">412</a>
+In conclusion they stated that this project might not always engage with all students all the time, but they felt it was nonetheless helpful with most of them. This was because they felt the activity was worthwhile at helping improve their students' ability to plan and explain concepts better, thus supporting their future teaching careers.
+<a href="../schedule/2021/june/19">Link to meeting listing</a>

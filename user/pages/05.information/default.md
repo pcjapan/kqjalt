@@ -29,6 +29,7 @@ If you would like more information on our meetings, and are unable to obtain you
 <h3>Mailing List and Publicity</h3>
 <p>
 To receive information about our meetings and other occasional news, you can join our <a href="https://groups.google.com/a/jalt.org/g/kqjalt-publicity">Google Groups mailing list</a> (<a href="https://jalt.org/email/node/15/field_group_email">contact us</a> if you don't have a Google account but would like to be added). You can also find us on <a href="https://www.facebook.com/groups/kqjalt/">Facebook</a>.
+</p>
 <hr />
 <h3>Contact and Committee</h3>
 <p>

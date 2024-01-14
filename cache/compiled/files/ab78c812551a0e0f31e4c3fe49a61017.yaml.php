@@ -2,21 +2,21 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/system/config/site.yaml',
-    'modified' => 1701510484,
-    'size' => 1547,
+    'modified' => 1704426372,
+    'size' => 1509,
     'data' => [
-        'title' => 'Kitakyushu JALT',
+        'title' => 'Grav',
         'default_lang' => 'en',
         'author' => [
-            'name' => 'Website Administrator',
-            'email' => 'kitakyushu@jalt.org'
+            'name' => 'John Appleseed',
+            'email' => 'john@example.com'
         ],
         'taxonomies' => [
-            0 => 'content',
-            1 => 'events'
+            0 => 'category',
+            1 => 'tag'
         ],
         'metadata' => [
-            'description' => 'Kitakyushu JALT Chapter'
+            'description' => 'My Grav Site'
         ],
         'summary' => [
             'enabled' => true,

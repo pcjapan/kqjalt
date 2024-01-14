@@ -3,7 +3,7 @@ title: 'Upcoming Events'
 content:
     items: '@self.children'
     order:
-        by: header.date
+        by: folder
         dir: desc
     pagination: true
     limit: 10

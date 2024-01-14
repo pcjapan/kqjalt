@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/system/blueprints/config/site.yaml',
-    'modified' => 1702001645,
+    'modified' => 1704426372,
     'size' => 4268,
     'data' => [
         'title' => 'PLUGIN_ADMIN.SITE',

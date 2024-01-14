@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/system/blueprints/config/streams.yaml',
-    'modified' => 1702001645,
+    'modified' => 1704426372,
     'size' => 120,
     'data' => [
         'title' => 'PLUGIN_ADMIN.FILE_STREAMS',

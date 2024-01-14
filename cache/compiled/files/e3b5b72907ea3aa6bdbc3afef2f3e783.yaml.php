@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/config/security.yaml',
-    'modified' => 1702874685,
+    'modified' => 1702893888,
     'size' => 555,
     'data' => [
         'xss_whitelist' => [

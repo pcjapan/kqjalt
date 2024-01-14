@@ -8,10 +8,10 @@ content:
     items:
         - '@self.children'
     order:
-        by: date
-        dir: desc
+        by: folder
+        dir: asc
     pagination: true
-    limit: 5
+    limit: 10
 child_type: reports
 ---
 

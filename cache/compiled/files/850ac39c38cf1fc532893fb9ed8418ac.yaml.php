@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/login/blueprints.yaml',
-    'modified' => 1702001645,
+    'modified' => 1704393060,
     'size' => 14783,
     'data' => [
         'name' => 'Login',
         'slug' => 'login',
         'type' => 'plugin',
-        'version' => '3.7.6',
+        'version' => '3.7.7',
         'testing' => false,
         'description' => 'Enables user authentication and login screen.',
         'icon' => 'sign-in',

@@ -2,10 +2,10 @@
 title: '11 September, 2021 - Namiko Tsuruta'
 eventdate: '2021-09-11'
 eventreporter: 'Markus Yong'
-visible: false
 taxonomy:
     content:
         - reports
+visible: false
 ---
 
 Promoting Sustainable Education: A Cross-Cultural Hybrid Framework for Japanese and Nepalese Younger Learners

@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Applications/MAMP/htdocs/kqjalt/user/plugins/admin/blueprints.yaml',
-    'modified' => 1702001645,
+    'modified' => 1704394318,
     'size' => 25885,
     'data' => [
         'name' => 'Admin Panel',
         'slug' => 'admin',
         'type' => 'plugin',
-        'version' => '1.10.43',
+        'version' => '1.10.44',
         'description' => 'Adds an advanced administration panel to manage your site',
         'icon' => 'empire',
         'author' => [
@@ -617,7 +617,7 @@ return [
                                 ],
                                 'whitelabel.color_scheme.accents.primary-accent' => [
                                     'type' => 'select',
-                                    'size' => 'meidum',
+                                    'size' => 'medium',
                                     'classes' => 'fancy',
                                     'label' => 'PLUGIN_ADMIN.PRIMARY_ACCENT_LABEL',
                                     'help' => 'PLUGIN_ADMIN.PRIMARY_ACCENT_HELP',
@@ -636,7 +636,7 @@ return [
                                 ],
                                 'whitelabel.color_scheme.accents.secondary-accent' => [
                                     'type' => 'select',
-                                    'size' => 'meidum',
+                                    'size' => 'medium',
                                     'classes' => 'fancy',
                                     'label' => 'PLUGIN_ADMIN.SECONDARY_ACCENT_LABEL',
                                     'help' => 'PLUGIN_ADMIN.SECONDARY_ACCENT_HELP',
@@ -655,7 +655,7 @@ return [
                                 ],
                                 'whitelabel.color_scheme.accents.tertiary-accent' => [
                                     'type' => 'select',
-                                    'size' => 'meidum',
+                                    'size' => 'medium',
                                     'classes' => 'fancy',
                                     'label' => 'PLUGIN_ADMIN.TERTIARY_ACCENT_LABEL',
                                     'help' => 'PLUGIN_ADMIN.TERTIARY_ACCENT_HELP',

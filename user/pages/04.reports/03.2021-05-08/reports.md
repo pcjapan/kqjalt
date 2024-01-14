@@ -13,7 +13,7 @@ Whitney Sarver, Tracy Koslowski
 
 In our May presentation, the presenters demonstrated the importance of critical thinking in the classroom and how activities encouraging such thinking have been incorporated  as an integral part of lesson plans. 
 
-The presentation started with the question of “what is critical thinking?” This was defined as the examination of something to make a judgment in order to solve a problem. Such thinking is important for academia as it is the key to academic success.
+The presentation started with the question of "what is critical thinking?" This was defined as the examination of something to make a judgment in order to solve a problem. Such thinking is important for academia as it is the key to academic success.
 
 Important aspects of critical thinking include: 
 
@@ -33,4 +33,4 @@ The lessons proceeded as per the steps used for the Podcast project. However, in
 These activities automatically force students to think critically as it makes them consider how they should put their work together and communicate with their audience. 
 In terms of assessing the activities, the presenters did not state exactly what rubrics they used but instead advised us to limit their scope as it would be too time consuming to assess all possible outcomes. 
 In conclusion they presented some very useful lesson activities which are bound to make any student more engaged and thinking critically.
-<a href="/chapters/kq/schedule/2021/may/08">422</a>
+<a href="../schedule/2021/may/08">Link to meeting listing</a>
