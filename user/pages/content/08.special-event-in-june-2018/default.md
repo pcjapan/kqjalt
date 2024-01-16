@@ -8,12 +8,8 @@ media_order: Zoltan_Dornyei.png
 
 We are pleased to announce that <strong> Zoltán Dörnyei (University of Nottingham, UK)</strong> will be joining us for a presentation on June 16th following his plenary at the third international Psychology of Language Learning conference (PLL3) in Tokyo (June 7-10).
 
-Information on the time and venue are on the <a href="/chapters/kq/schedule/2018/June/16">schedule page</a>. This event is co-sponsored by the JALT Mind, Brain, and Education SIG with support from PLL3.
+Information on the time and venue are on the <a href="/schedule/archive/2018-june-16">schedule page</a>. This event is co-sponsored by the JALT Mind, Brain, and Education SIG with support from PLL3.
 
-Register for the presentation online at http://kqjalt-dornyei.peatix.com/. You can also register and pay onsite from 3:30 pm.
-
-<a href="/chapters/kq/content/access-details-dornyei"><strong>Access details here</strong></a>
- 
 <span class="pull-right">![Zoltan_Dornyei](Zoltan_Dornyei.png "Zoltan_Dornyei")</span>
 <h3>Directed Motivational Currents: What Are They and What Can They Teach Us About Long-term Motivation?</h3>
 
