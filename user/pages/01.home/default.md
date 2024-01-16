@@ -13,7 +13,7 @@ published: true
 
 <h2>Our Schedule</h2> 
 
-<p>Details of our upcoming presentations will be available on our <a href="/chapters/kq/schedule">programme page</a>. Find out what you can look forward to during the year and arrange your schedule accordingly. </p>
+<p>Details of our upcoming presentations will be available on our <a href="schedule">programme page</a>. Find out what you can look forward to during the year and arrange your schedule accordingly. </p>
 
 <h2>Meeting Information</h2>
 

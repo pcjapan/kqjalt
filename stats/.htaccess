@@ -1,0 +1,7 @@
+AuthName "kitakyushu.jalt.org statistics"
+AuthType Basic
+AuthUserFile /home/kitakyushu/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+Require all denied
+</Files>

@@ -22,7 +22,7 @@ The following candidates are standing for officer positions in the Kitakyushu JA
 * Treasurer - Greg Holloway
 * Internet Services - Paul Collett
 
-See the candidate bio statements for more information about each candidate.
+See the [candidate bio statements](/content/2024-chapter-officer-positions) for more information about each candidate.
 
 According to Bylaw III-4, of the chapter constitution: "If no officer positions are being contested among two or more candidates, the JALT Kitakyushu Executive Board may present the full slate of officers to the membership at the Annual General Meeting for approval by the members present. If there are contested positions, elections will take place at the Annual General Meeting or prior to the AGM via the Internet, with the results subject to approval by the JALT Kitakyushu Executive Board."
 
