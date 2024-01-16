@@ -15,7 +15,8 @@ summary:
   size: 60
   delimiter: '==='
 redirects:
-  /schedule/([^/]+)/([^/]+)/([^/]+)$: /schedule/archive/$1-$2-$3[301]
-routes: null
+  /schedule/([^/]+)/([^/]+)/([^/]+)$: '/schedule/archive/$1-$2-$3 [301]'
+  /content/about-us: '/about-us [301]'
+  /content/constitution: '/constitution [301]'
 blog:
   route: /blog

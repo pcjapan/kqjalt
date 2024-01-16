@@ -13,6 +13,19 @@ RewriteEngine On
 
 ## End - RewriteBase
 
+## Custom Rewrites
+
+# Redirect /content/reports?page=* to /reports/page:*
+RewriteCond %{QUERY_STRING} ^page=(.*)$
+RewriteRule ^content/reports$ /reports/page:%1? [R=301,L]
+
+# Redirect /content/reports to /reports
+RewriteRule ^content/reports$ /reports? [R=301,L]
+
+# Redirect /content/reports to /reports
+RewriteRule ^content/reports$ /reports? [R=301,L]
+
+
 ## Begin - X-Forwarded-Proto
 # In some hosted or load balanced environments, SSL negotiation happens upstream.
 # In order for Grav to recognize the connection as secure, you need to uncomment

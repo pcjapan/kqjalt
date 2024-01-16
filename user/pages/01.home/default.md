@@ -23,6 +23,6 @@ published: true
 
 <h2>Meeting Location</h2>
 
-<p>Meetings will take place at the 北九州まなびと ESDステーション (Kitakyushu Manabito ESD Station), in the Uomachi Shopping Arcade. Heading towards Tanga Market you’ll find it downstairs on the left, just across from the Crossroads shopping area. Look for the Kitakyushu JALT sign displayed at the entrance. A map is available <a href="location">here</a>. Any changes in the location for particular meetings will be noted in the meeting announcement.</p>
+<p>Meetings will take place at the 北九州まなびと ESDステーション (Kitakyushu Manabito ESD Station), in the Uomachi Shopping Arcade. Heading towards Tanga Market you’ll find it downstairs on the left, just across from the Crossroads shopping area. Look for the Kitakyushu JALT sign displayed at the entrance. A map is available <a href="map">here</a>. Any changes in the location for particular meetings will be noted in the meeting announcement.</p>
 
-<p>You can contact us <a href="https://jalt.org/email/node/15/field_group_email">via the main JALT site</a>. </p>
+<p>You can contact us <a href="https://jalt.org/email/node/15/field_group_email" target=_blank>via the main JALT site</a>. </p>
