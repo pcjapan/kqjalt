@@ -1,11 +1,11 @@
 ---
-title:  'Call for Presentations: neuroELT Brain Days Conference'
+title: 'Call for Presentations: neuroELT Brain Days Conference'
 date: '26-04-2014 08:50'
 taxonomy:
     content:
         - news
     year:
-        -  '2014'
+        - '2014'
 hidemenu: true
 visible: false
 ---

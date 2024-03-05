@@ -5,7 +5,7 @@ content:
     order:
         by: folder
         dir: desc
-    pagination: true
+    pagination: false
     limit: 10
 visible: true
 ---

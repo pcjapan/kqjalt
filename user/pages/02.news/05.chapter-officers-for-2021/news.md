@@ -1,6 +1,5 @@
 ---
 title: 'Chapter Officers for 2021'
-
 content:
     items: '@self.children'
     order:

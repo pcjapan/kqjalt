@@ -1,11 +1,11 @@
 ---
-title:  'Chapter Officers for 2020'
+title: 'Chapter Officers for 2020'
 date: '15-10-2019 19:05'
 taxonomy:
     content:
         - news
     year:
-        -  '2019'
+        - '2019'
 hidemenu: true
 visible: false
 ---

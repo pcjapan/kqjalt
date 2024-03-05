@@ -1,11 +1,11 @@
 ---
-title:  '2015 Annual General Meeting (AGM) Minutes'
+title: '2015 Annual General Meeting (AGM) Minutes'
 date: '11-10-2015 19:08'
 taxonomy:
     content:
         - news
     year:
-        -  '2015'
+        - '2015'
 hidemenu: true
 visible: false
 ---
