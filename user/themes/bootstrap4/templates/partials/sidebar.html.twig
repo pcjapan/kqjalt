@@ -3,12 +3,7 @@
 
 <div class = "region region-sidebar-second well">
     <div class="sidebar-content">
-
-
-    <h3>Contact Us</h3>
-    <p>You can contact us <a href="https://jalt.org/email/node/15/field_group_email" target=_blank>via the main JALT site</a>. </p>
-
-    <h3>Recent News</h3>
+   <h3>Recent News</h3>
         <ul>
 
        {% for post in taxonomy.findTaxonomy({'content':'news'}, "or").order('date', 'desc').slice(0, 2)  %}
@@ -25,10 +20,21 @@
           <li><a href="https://www.facebook.com/groups/kqjalt/">KQJALT on Facebook</a></li>
         </ul>
 
-    <h3>JALT National</h3>
+        <h3>JALT National</h3>
     <div class="text-center"><a href="http://jalt.org/"><img src ="https://kitakyushu.jalt.org/user/themes/bootstrap4/images/JALTlogoColor.gif" alt="JALT" width="150" height="52" /></a>
     <p><a href="https://jalt.org/">The Japan Asociation for Languge Teaching</a></p>
+</div>
+        <h3>JALT2024</h3>
+    <div class="text-center"><a href="http://jalt.org/conference"><img src ="https://kitakyushu.jalt.org/user/themes/bootstrap4/images/JALT2024-logo.png" alt="JALT2024 International Conference" width="150" /></a>
+    <p><a href="https://jalt.org/conference">全国語学教育学会　第50回年次国際大会教材展示会<br />
+The 50th Japan Association for Language Teaching (JALT) International Conference</a><br />
+2024年11月15日〜18日<br />
+静岡県・静岡コンベンションアーツセンター グランシップ<br />
+November 15 - 18, 2024<br />Shizuoka Granship, Shizuoka, Japan
+</p>
+</div>
 
-    </div>
-
+<h3>Contact Us</h3>
+    <p>You can contact us <a href="https://jalt.org/email/node/15/field_group_email" target=_blank>via the main JALT site</a>. </p>
+ </div>
 </div>
