@@ -14,7 +14,7 @@
   "dependencies": {
     "dropzone": "getgrav/dropzone#master",
     "exif-js": "^2.3.0",
-    "sortablejs": "^1.10.2"
+    "sortablejs": "^1.15.2"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
