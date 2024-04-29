@@ -1,9 +1,14 @@
 version: '1.2'
-timestamp: 1710811062
-count: 1
+timestamp: 1713483547
+count: 2
 index:
   kqjalt-admin:
     storage_key: kqjalt-admin
     storage_timestamp: 1705362558
     key: kqjalt-admin
     email: collett@mac.com
+  kqjalt-publicity:
+    storage_key: kqjalt-publicity
+    storage_timestamp: 1713483547
+    key: kqjalt-publicity
+    email: kq-publicity@jalt.org

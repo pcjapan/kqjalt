@@ -1,0 +1,20 @@
+state: enabled
+email: kq-publicity@jalt.org
+fullname: 'Kitakyushu JALT Publicity'
+language: en
+content_editor: default
+twofa_enabled: false
+twofa_secret: KUMLVPWETVSMMKFXMYJSPEAPKGJJ2KJW
+avatar: {  }
+hashed_password: $2y$10$p8fVhfsDLsqqSLBy3u0zGOYFPH.nSIB9FQmwOn7nNcSc6vn9u4HkS
+access:
+  site:
+    login: true
+  admin:
+    login: true
+    pages:
+      create: true
+      read: true
+      update: true
+      list: true
+    statistics: true
