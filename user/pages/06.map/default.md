@@ -4,7 +4,7 @@ title: Location
 
 ## Getting to Kitakyushu JALT meetings
 <p>
-For the first half of 2024, we will be holding our meetings in the Teramoto Building (TM ビル), near Nishikokura Station. Look for a sign for the Gitanjali Indian restaurant. Enter from the street entrance, and go up the stairs. The meeting room is on the 3rd floor at the end of the corridor at the rear (non-street) side of the building. It's about a 10-minute walk from Kokura Station.
+For the first half of 2024, we will be holding our meetings in the Teramoto Building (TM ビル), near Nishikokura Station, or about 10 minutes walk from Kokura station. It is in the same building as the Gitanjali Indian restaurant. Enter from the street entrance, and go up the stairs. The meeting room is on the 3rd floor at the end of the corridor at the rear (non-street) side of the building. Look for our sign outside.
 </p>
 
 <p>
